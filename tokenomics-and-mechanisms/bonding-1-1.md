@@ -50,4 +50,4 @@ Naked carbon assets that represent one tonne of carbon per 1 token (BCT, MCO2, e
 
 ### Expectations:&#x20;
 
-With the bonding mechanism, not only will we acquire carbon assets into the treasury, it also allows us to acquire liquidity to facilitate market operations as well. This assists in creating a decentralized carbon market, as well as provide a passive revenue generation through the LP fees.&#x20;
+With the bonding mechanism, not only will we acquire carbon assets into the treasury, it also allows us to acquire liquidity to facilitate market operations as well. This assists in creating a decentralized carbon market, as well as provide passive inflows to the treasury through trading fees which accrue to the LP tokens.
