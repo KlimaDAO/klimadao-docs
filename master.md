@@ -42,13 +42,13 @@ The following bonds are current available via [https://dapp.klimadao.finance/#/b
 * MCO2
 * BCT
 
-To retire carbon assets visit [https://dapp.klimadao.finance/#/offset](https://dapp.klimadao.finance/#/offset).
+To retire carbon tokens visit [https://dapp.klimadao.finance/#/offset](https://dapp.klimadao.finance/#/offset).
 
 ## How do I participate in KlimaDAO?
 
 **Klima DAO development:** Join the  [Discord](https://discord.gg/klimadao) to become a Klimate and hear about Protocol developments. Those who wish to be involved in Protocol Governance should also join the Discord to be onboarded by a member of the team.&#x20;
 
-**Participation in the carbon economy:** At the time of writing BCTs and MCO2s are the main TCTs within the KlimaDAO treasury and their flow into the treasury underpins protocol growth. Both BCTs and MCO2s represent real-world Verified Carbon Units (VCUs) from a registry such as Verra - BCT can be created via the [Toucan Protocol](https://toucan.earth/)’s public bridge while MCO2 is a centrally managed product of [Moss](https://moss.earth/); new MCO2 tonnes are brought on chain using Moss’ private bridge. Bonders can purchase discounted KLIMA tokens over a 5-day vesting period using the bonds mentioned above. Once KLIMA tokens are held, stakers should stake their tokens in return for more KLIMA tokens based on the [AKR](references/glossary.md#akr) at each epoch \~7.2 hour intervals.
+**Participation in the carbon ecosystem:** At the time of writing BCTs and MCO2s are the main TCTs within the KlimaDAO treasury and their flow into the treasury underpins protocol growth. Both BCTs and MCO2s represent real-world Verified Carbon Units (VCUs) from a registry such as Verra - BCT can be created via the [Toucan Protocol](https://toucan.earth/)’s public bridge while MCO2 is a centrally managed product of [Moss](https://moss.earth/); new MCO2 tonnes are brought on chain using Moss’ private bridge. Bonders can obtain discounted KLIMA tokens over a 5-day vesting period using the bonds mentioned above. Once KLIMA tokens are held, stakers should stake their tokens in reward for more KLIMA tokens based on the [AKR](references/glossary.md#akr) at each epoch \~7.2 hour intervals.
 
 ## Who created KlimaDAO?
 

@@ -21,7 +21,6 @@
 
 * [Primer on KLIMA](tokenomics-and-mechanisms/primer-on-klima.md)
 * [Initial Network State](tokenomics-and-mechanisms/initial-network-state.md)
-* [Initial Supply](tokenomics-and-mechanisms/initial-supply.md)
 * [Emission Mechanisms](tokenomics-and-mechanisms/emission-mechanisms.md)
 * [Bonding (1,1)](tokenomics-and-mechanisms/bonding-1-1.md)
 * [Staking (🌳,🌳)](tokenomics-and-mechanisms/staking.md)
