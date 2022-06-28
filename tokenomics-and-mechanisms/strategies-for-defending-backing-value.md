@@ -52,9 +52,9 @@ To illustrate, consider the following simplified scenarios, assuming the above R
 | RFV per Token                | $24.17         | $22.92         | $21.67         |
 | Your Share of RFV            | $265.83        | $252.08        | $238.33        |
 
-### How is Klima different? <a href="#docs-internal-guid-e33ad20a-7fff-714b-5f30-769e49ed64fd" id="docs-internal-guid-e33ad20a-7fff-714b-5f30-769e49ed64fd"></a>
+### How is KlimaDAO different? <a href="#docs-internal-guid-e33ad20a-7fff-714b-5f30-769e49ed64fd" id="docs-internal-guid-e33ad20a-7fff-714b-5f30-769e49ed64fd"></a>
 
-Klima is different from most other Olympus forks in that its "risk free" assets are held in non-stable tokens (tokenized carbon offsets). This means that there is an additional reason that KLIMA's price could trade below its CC [(formerly called RFV)](../references/glossary.md#cc) in dollar terms: because the market believes these assets should be worth less in dollar terms than they are currently priced. For example, if the RFV/token is 5 BCT and BCT is currently trading at $5, one would assume the CC/token in dollar terms is $25. However, if the market believes BCT is currently overpriced, this value could very well become $20.
+KlimaDAO is different from most other Olympus forks in that its "risk free" assets are held in non-stable tokens (tokenized carbon offsets). This means that there is an additional reason that KLIMA's price could trade below its CC [(formerly called RFV)](../references/glossary.md#cc) in dollar terms: because the market believes these assets should be worth less in dollar terms than they are currently priced. For example, if the RFV/token is 5 BCT and BCT is currently trading at $5, one would assume the CC/token in dollar terms is $25. However, if the market believes BCT is currently overpriced, this value could very well become $20.
 
 Ultimately, BCT is composed of tokenized Verra carbon offsets, which have inherent use-value to compensate for the emissions of an individual or organization. With BCT trading below off-chain prices for comparable Verra offsets, on-chain offsets like BCT will become increasingly attractive to legacy buyers of offsets. At the same time, as the on-chain offset market matures, tokenized carbon offsets will have many more use-cases and integrations (e.g. user-friendly retirement functionality, additional protocols for borrowing and lending, AMMs built around offsets, automated offsetting through wallet and protocol integrations, and so on). These additional sources of demand will ensure that even if the protocol’s bond facility had to be disabled in a crisis, the on-chain offset market would not collapse.
 
@@ -92,10 +92,6 @@ While we do plan to eventually put the treasury’s assets to use by investing i
 
 In the case that demand for KLIMA stagnates completely, the protocol's reserves can step in to catch the market. The policy team manages this risk through forward guidance: the fact that the protocol _will_ buy lowers risk the lower we go, which can mean we end up _not having to_ buy. Thus, the protocol serves as the "buyer of last resort" for KLIMA below IV.
 
-### Manual Buyback and Burn
-
-The policy team has the power to borrow reserves from the treasury and buy back KLIMA on the open market, then burn the KLIMA it buys, thereby reducing the amount of reserves required to back the supply of KLIMA.
-
 ### Inverse Bonds
 
 In the event that KLIMA were to trade persistently below IV, as a last resort the policy team plans to launch inverse bonds, which accept KLIMA in return for BCT at a discounted rate, and then the bonded KLIMA is burned, shrinking the supply of KLIMA. This process increases the backing per KLIMA and extends the runway.
@@ -114,10 +110,10 @@ In the event that KLIMA persistently trades around IV, and inverse bonds or manu
 
 Assuming all inverse bonders are selling their BCT for USDC, that BCT would end up in the BCT/USDC liquidity pool owned almost entirely by the Klima treasury. In the most extreme scenario, all of the KLIMA supply would be bought back and burned, and the treasury would end up with more BCT than we had initially (though most of it in the LP pools instead of reserves) - so with just a small amount of bonding we can restart the[ liquidity flywheel](https://klimadao.medium.com/klima-dao-as-a-liquidity-engine-3a806ce5d3d5) with a much higher initial balance of BCT and USDC.&#x20;
 
-**With responsible treasury management, the Klima protocol can rise like a phoenix from the ashes of even the most dramatic market collapse.**
+**With responsible treasury management, the KlimaDAO protocol can rise like a phoenix from the ashes of even the most dramatic market collapse.**
 
 ## The Only Way Out Is Through
 
 In a scenario where KLIMA is persistently trading significantly below CC or IV, the policy team can only do so much to drive additional reserves to the treasury and to reinvigorate the protocol on its own - the rest of the DAO must deliver on our business development goals, including executing marketing campaigns, shipping new reserve-generating products and securing high impact partnerships to allow for a full recovery.
 
-The DAO contributors and core team are all here for the long haul: Klima has always been a long-term project with a decadal scope. **We have no intention of liquidating the treasury prematurely, nor of letting the protocol stagnate.**
+The DAO contributors and core team are all here for the long haul: KlimaDAO has always been a long-term project with a decadal scope. **We have no intention of liquidating the treasury prematurely, nor of letting the protocol stagnate.**

@@ -18,7 +18,7 @@ Bonding is the process of getting KLIMA. The protocol will provide an amount of 
 
 Bonding allows you to obtain KLIMA at a lower cost basis. Because the protocol can sell at a discount to the market value (as it can mint KLIMA at IV), bonding when there is a positive discount may be advantageous compared to simply buying KLIMA on the market and staking.
 
-### Bonding Dynamics:&#x20;
+### Bonding Dynamics
 
 The protocol provides the value of a bond based on the intrinsic value of KLIMA, and the premium charged on bonds:&#x20;
 
@@ -38,7 +38,7 @@ $$
 
 With the bonding mechanism, not only will KlimaDAO acquire carbon assets into the treasury, it also allows the protocol to obtain assets to facilitate market operations. This assists in creating a decentralized carbon market, as well as provide passive inflows to the treasury through trading fees which accrue to the LP tokens.
 
-### Carbon Custodied:&#x20;
+### Carbon Custodied
 
 Carbon Custodied (CC) refers to the tokenized carbon offsets held in the treasury reserves. For each KLIMA token circulating, there is some amount of carbon offsets in the treasury. Any excess reserves above the 1 tonne/KLIMA Intrinsic Value will eventually be used for the dilution mechanism.&#x20;
 
