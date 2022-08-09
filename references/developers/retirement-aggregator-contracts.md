@@ -8,6 +8,12 @@ Source code for all retirement-related contracts can be found here: [https://git
 
 ## KlimaRetirementAggregator
 
+### Deployment
+
+The Polygon mainnet master contract is deployed to [0xEde3bd57a04960E6469B70B4863cE1c9d9363Cb8](https://polygonscan.com/address/0xEde3bd57a04960E6469B70B4863cE1c9d9363Cb8)
+
+Due to the reliance on third party contracts and liquidity pairs on AMMs, it is suggested to test integrations using a forked Polygon mainnet environment. Commonly used tools for this are [Hardhat ](https://hardhat.org/hardhat-network/docs/guides/forking-other-networks)or [Foundry](https://github.com/foundry-rs/foundry).
+
 ### State Variables
 
 Addresses common across the product are stored in the master contract:
