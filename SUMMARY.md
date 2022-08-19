@@ -47,9 +47,9 @@
   * [Wrap sKLIMA](developers/guides/wrap-sklima.md)
   * [Retire Carbon](developers/guides/retire-carbon.md)
   * [Bond Carbon or LP tokens](developers/guides/bond-carbon-or-lp-tokens.md)
+  * [Retirement Aggregator Contract Guide](developers/guides/retirement-aggregator-contract-guide.md)
+  * [Retirement UI Integration Guide](developers/guides/retirement-ui-integration-guide.md)
 * [Integration Examples](developers/integration-examples.md)
-* [Retirement Aggregator Contract Guide](developers/retirement-aggregator-contract-guide.md)
-* [Retirement UI Integration Guide](developers/retirement-ui-integration-guide.md)
 * [Testnet Deployment](developers/testnet-deployment.md)
 
 ## 📚 References

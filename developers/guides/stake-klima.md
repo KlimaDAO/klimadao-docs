@@ -26,6 +26,8 @@ Your contract's function calls the StakingHelper contract's stake function. In t
 
 Once staked, you will receive a proportional amount of sKLIMA to represent the staked KLIMA. sKLIMA is an ERC20 and can transferred using the IERC20 interface.
 
+### Example
+
 {% code lineNumbers="true" %}
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -142,6 +144,8 @@ Your contract's function calls the sKLIMA token's standard ERC20 approve functio
 Your contract's function calls the Staking contract's unstake function. In the example below, an interface named IStaking is used to interact with the Staking contract. The default value for `bool _trigger` is false unless you wish to trigger the rebase.&#x20;
 
 Once unstaked, you will receive a proportional amount of KLIMA. KLIMA is an ERC20 and can transferred using the IERC20 interface.
+
+### Example
 
 ```solidity
 // SPDX-License-Identifier: MIT
