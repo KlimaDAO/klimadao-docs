@@ -49,7 +49,7 @@
 
 {% endtab %}
 
-{% tab title="Mumbai Testnet" %}
+{% tab title="Second Tab" %}
 
 
 | Name                               | Address                                      | Source Code                                                                                                               | Explorer                                                                                  |
