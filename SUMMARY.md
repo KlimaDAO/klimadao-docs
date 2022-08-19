@@ -43,6 +43,7 @@
 * [🛠 Developers](references/developers/README.md)
   * [Offset Interface](references/developers/offset-interface.md)
   * [Retirement Aggregator Contracts](references/developers/retirement-aggregator-contracts.md)
+  * [Data Sources](references/developers/data-sources.md)
 * [Glossary](references/glossary.md)
 * [Links](references/links.md)
 * [Testnet Deployment](references/testnet-deployment.md)
