@@ -2,7 +2,7 @@
 
 All bond contracts are more or less the same, with the one exception of the assets or LP tokens they manage. The bond contracts handle all deposits and redemptions.&#x20;
 
-Here parameters for each bond type are configured. Such parameters are, for instance, the [BCV](../glossary.md#bcv)  and the max individual payout.
+Here parameters for each bond type are configured. Such parameters are, for instance, the [BCV](../../references/glossary.md#bcv)  and the max individual payout.
 
 Where applicable, the bond contracts are listed by version, where the latest version represents the currently active contract.
 

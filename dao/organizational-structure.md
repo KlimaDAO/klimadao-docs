@@ -20,7 +20,7 @@ description: Even decentralized autonomous organizations need an org chart
 * Token Holders: core stakeholders of KlimaDAO, our Klimate community plays a critical role supporting the protocol’s growth and engaging in the governance process via discussion and voting.
 * Partners: organizations who have established a relationship with KlimaDAO. Some Partners utilize our products and/or hold KLIMA on their balance sheets; some also contribute on joint initiatives.
 
-_\*NOTE: By default, bounties will only be available to licensed Bounty Hunters who have applied to work on a bounty and been assigned that bounty by a Functional Steward. However, some bounties may be available to community members who have not been tapped in, and will be flagged as such. For example, the_ [_standing bug bounty for exploits_](../references/bug-bounty.md) _that place funds at risk is available to any community member who follows the documented procedure for claiming that bounty._
+_\*NOTE: By default, bounties will only be available to licensed Bounty Hunters who have applied to work on a bounty and been assigned that bounty by a Functional Steward. However, some bounties may be available to community members who have not been tapped in, and will be flagged as such. For example, the_ [_standing bug bounty for exploits_](../developers/bug-bounty.md) _that place funds at risk is available to any community member who follows the documented procedure for claiming that bounty._
 
 ### Internal DAO Teams
 

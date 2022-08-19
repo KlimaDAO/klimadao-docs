@@ -2,7 +2,7 @@
 description: Backend contracts for consuming tokenized carbon credits
 ---
 
-# Retirement Aggregator Contracts
+# Retirement Aggregator Contract Guide
 
 Source code for all retirement-related contracts can be found here: [https://github.com/KlimaDAO/klimadao-solidity/tree/main/contracts/retirement](https://github.com/KlimaDAO/klimadao-solidity/tree/main/contracts/retirement)
 
@@ -18,14 +18,14 @@ Due to the reliance on third party contracts and liquidity pairs on AMMs, it is 
 
 Addresses common across the product are stored in the master contract:
 
-* [KLIMA](../contracts/tokens.md#klima)
-* [sKLIMA](../contracts/tokens.md#sklima)
-* [wsKLIMA](../contracts/tokens.md#wsklima)
+* [KLIMA](contracts/tokens.md#klima)
+* [sKLIMA](contracts/tokens.md#sklima)
+* [wsKLIMA](contracts/tokens.md#wsklima)
 * [USDC](https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174)
-* [Staking](../contracts/staking.md)
-* [Staking Helper](../contracts/staking.md#stakinghelper)
-* [Treasury](../contracts/treasury.md)
-* [Klima Retirement Storage](../contracts/retirement.md#retirement-storage)
+* [Staking](contracts/staking.md)
+* [Staking Helper](contracts/staking.md#stakinghelper)
+* [Treasury](contracts/treasury.md)
+* [Klima Retirement Storage](contracts/retirement.md#retirement-storage)
 
 Mappings used to flag and track different tokens and addresses:
 

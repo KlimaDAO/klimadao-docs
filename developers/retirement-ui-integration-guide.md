@@ -2,11 +2,11 @@
 description: Frontend application for retiring tokenized carbon credits
 ---
 
-# Offset Interface
+# Retirement UI Integration Guide
 
 ### Query Params
 
-To facilitate integrations, the KlimaDAO offset interface supports query parameters to prefill a defined set of arguments.
+To facilitate integrations, the KlimaDAO retirement interface supports query parameters to prefill a defined set of arguments.
 
 Every field can be pre-filled, including selective retirement.
 
@@ -25,7 +25,7 @@ You can provide multiple arguments for `projectToken` and these will be automati
 Example URL with all fields filled, and 2 selective project tokens:
 
 ```
-http://app.klimadao.finance/#/offset
+https://app.klimadao.finance/#/offset
   ?quantity=123
   &inputToken=klima
   &retirementToken=mco2

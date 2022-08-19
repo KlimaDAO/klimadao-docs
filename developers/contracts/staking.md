@@ -14,6 +14,6 @@ Utility contract that wraps functionality form the Staking contract for ease-of-
 
 ## Distributor
 
-The distributor contract receives minted KLIMA from the treasury in order to drip-feed rewards to stakers. Note that the reward rate determines the rebase rate and that the rebase rate determines the [AKR](../glossary.md#akr). Below are listed distributor contracts by version, where the latest version represents the currently active contract.
+The distributor contract receives minted KLIMA from the treasury in order to drip-feed rewards to stakers. Note that the reward rate determines the rebase rate and that the rebase rate determines the [AKR](../../references/glossary.md#akr). Below are listed distributor contracts by version, where the latest version represents the currently active contract.
 
 * V1:  [0x4cC7584C3f8FAABf734374ef129dF17c3517e9cB](https://polygonscan.com/address/0x4cC7584C3f8FAABf734374ef129dF17c3517e9cB)
