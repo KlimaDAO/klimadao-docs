@@ -44,7 +44,7 @@
 * [Data Sources](developers/data-sources.md)
 * [Guides](developers/guides/README.md)
   * [Stake KLIMA](developers/guides/stake-klima.md)
-  * [Unwrap sKLIMA](developers/guides/unwrap-sklima.md)
+  * [Wrap sKLIMA](developers/guides/wrap-sklima.md)
   * [Retire Carbon](developers/guides/retire-carbon.md)
   * [Bond Carbon or LP tokens](developers/guides/bond-carbon-or-lp-tokens.md)
 * [Integration Examples](developers/integration-examples.md)
