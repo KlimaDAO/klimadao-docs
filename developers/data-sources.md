@@ -22,7 +22,7 @@ Detailed metrics on bonding activity
 
 Metrics concerning existing KLIMA token supply locked in another contract, either temporarily or permanently
 
-#### [Carbon Users](https://thegraph.com/hosted-service/subgraph/klimadao/klimadao-carbon-users)
+#### [User Carbon](https://thegraph.com/hosted-service/subgraph/klimadao/klimadao-user-carbon)
 
 Metrics on addresses that have interacted with tokenized carbon credits supported by the KlimaDAO ecosystem, most notably balances over time
 
