@@ -44,8 +44,6 @@ Your contract's function calls the wsKLIMA contract's wrap function. In the exam
 
 Once wrapped, you will receive wsKLIMA tokens proportional to the amount of sKLIMA divided by the current index. to represent the staked KLIMA. sKLIMA is an ERC20 and can transferred using the IERC20 interface.
 
-### Example
-
 {% code lineNumbers="true" %}
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -169,9 +167,6 @@ Your contract's function calls the wsKLIMA contract's unwrap function. In the ex
 
 Once unwrapped, you will receive a proportional amount of sKLIMA multiplied by the current index. sKLIMA is an ERC20 and can transferred using the IERC20 interface.
 
-### Example
-
-{% code lineNumbers="true" %}
 ```solidity
 // SPDX-License-Identifier: MIT
 
@@ -268,5 +263,4 @@ contract MyContract {
     } 
 }
 ```
-{% endcode %}
 

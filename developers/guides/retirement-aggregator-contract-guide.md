@@ -157,7 +157,7 @@ function getSourceAmount(
         address _poolToken,
         uint256 _amount,
         bool _amountInCarbon
-    ) public view returns (uint256, uint256)
+    ) public view returns (uint256, uint256)i
 ```
 
 Return Values:

@@ -142,6 +142,7 @@ contract MyContract {
 
 Use USDC to retire a specific amount of your choice of carbon token (BCT, NCT, UBO, NBO, MCO2) allowing the caller to set the beneficiary information
 
+{% code lineNumbers="true" %}
 ```solidity
 // SPDX-License-Identifier: MIT
 
@@ -244,8 +245,9 @@ contract MyContract {
         IERC20(USDC).approve( KlimaRetirementAggregator, approvalAmount );
         IKlimaRetirementAggregator( KlimaRetirementAggregator ).retireCarbon( USDC, _poolToken, _amount, true, beneficiaryAddress, beneficiaryName, retirementMessage );
     } 
-}}
+}
 ```
+{% endcode %}
 
 
 
