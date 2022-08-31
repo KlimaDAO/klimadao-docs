@@ -18,15 +18,15 @@ You can transfer ERC20 tokens (like LP tokens) to your contract via web3.js and 
 
 Your contract's function calls the bondable token's standard ERC20 approve function to allow the bond depository contract to transfer tokens from your contract. In the example below, an interface named IERC20 to interact with the BCT token smart contact.
 
-{% hint style="info" %}
-Require can be used to ensure that a bond has a sufficient discount otherwise the transaction reverts. Provided below is an example of how to implement a `require` conditional and `getDiscount` function.
-{% endhint %}
-
 #### 3. Bonding your tokens
 
 First, get the current price of the bond from the bond depository. In the example below, an interface named `IKlimaBondDepository` is used to read the bond depository contract's `bondPriceInUSD`. (This bond price is actually denominated in BCT instead of USD as KLIMA is fork of OlympusDAO denominated in carbon.)
 
 Then, your contract's function calls the bond depository contract's `deposit` function with the token balance to bond, the bond price we fetched, and the recipient of the bond.
+
+{% hint style="info" %}
+A `require` conditional can be used to ensure that a bond has a sufficient discount otherwise the transaction reverts.
+{% endhint %}
 
 ### Example&#x20;
 
