@@ -45,6 +45,7 @@
 | MCO2/KLIMA | `0x64a3b8cA5A7e406A78e660AE10c7563D9153a739` | [Code](https://polygonscan.com/address/0x64a3b8cA5A7e406A78e660AE10c7563D9153a739#code#L1) | [Link](https://polygonscan.com/address/0x64a3b8cA5A7e406A78e660AE10c7563D9153a739) |
 | UBO/KLIMA  | `0x5400A05B8B45EaF9105315B4F2e31F806AB706dE` | [Code](https://polygonscan.com/address/0x5400A05B8B45EaF9105315B4F2e31F806AB706dE#code#L1) | [Link](https://polygonscan.com/address/0x5400A05B8B45EaF9105315B4F2e31F806AB706dE) |
 | NBO/KLIMA  | `0x251cA6A70cbd93Ccd7039B6b708D4cb9683c266C` | [Code](https://polygonscan.com/address/0x251cA6A70cbd93Ccd7039B6b708D4cb9683c266C#code#L1) | [Link](https://polygonscan.com/address/0x251cA6A70cbd93Ccd7039B6b708D4cb9683c266C) |
+| NCT/KLIMA  | `0xb2D0D5C86d933b0aceFE9B95bEC160d514d152E1` | [Code](https://polygonscan.com/address/0xb2d0d5c86d933b0acefe9b95bec160d514d152e1#code)    | [Link](https://polygonscan.com/address/0xb2d0d5c86d933b0acefe9b95bec160d514d152e1) |
 
 
 {% endtab %}
