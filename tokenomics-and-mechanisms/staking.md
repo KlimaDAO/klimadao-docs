@@ -25,5 +25,5 @@ $$
 This translates to [AKR](../references/glossary.md#akr):
 
 $$
-(1+RewardYield)^{(365*24/(BlockTimeInHours)}
+(1+RewardYield)^{(365*24/(BlockTimeInHours)} - 1
 $$
