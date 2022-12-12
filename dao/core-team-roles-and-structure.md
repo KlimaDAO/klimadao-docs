@@ -22,11 +22,6 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Manages Scrum process for Engineering team
 * Supports product scoping, design feedback, UI/UX and accessibility
 
-### Krian
-
-* Policy Team co-steward.
-* Strategic vision for future tokenomics and policy mechanisms.
-
 ### Chaz Schmidt
 
 * Community manager
@@ -61,16 +56,6 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Helps other Core members with IRL logistics (e.g. contracts, expenses)
 * Attends meetings that require an IRL contact (meaning a contract to be signed, or something that has a legal implication)
 
-### Leontari
-
-* Marketing functional steward
-* Branding Strategy
-* Ensures cohesive workflows between Marketing and Creative departments
-* Strategic vision for marketing
-* Organizational Structure optimization&#x20;
-* Marketing Collaborations&#x20;
-* Partnerships contributor
-
 ### Lil Yapper
 
 * Partnerships contributor; lead generation; sales
@@ -104,19 +89,7 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Product owner for [Klima Infinity (KI)](../references/glossary.md#ki), coordinates KI product vision and execution
 * A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
 
-### Vader
-
-* Strategic lead for all areas of the creative department vision — participate in the initial project brainstorming, fuelling the idea conception and overall execution
-* Lead the translation of creative output and communication into clear creative strategies, focusing on the “why”,  backed up by the “how” or “what”
-* Reviewing creative project briefs and timelines at milestone intervals
-* Meet with the Creative Functional Steward and comment on the production of all creative and marketing collateral
-* Oversee the quality of visual communication and brand standards, troubleshoot, and provide feedback to creative teams
-* Meet with partners, Core, and external agencies, as needed to present, convey, and formulate creative strategies and solutions
-* Lead the development of “Mugglisation” user-friendliness, accessibility, and plain language in all outputs
-* Evangelist for creative-driven, team centric problem solving regarding any creative task or project
-* Weekly and monthly assessment of all creative projects in a team stand-up
-
 ## Compensation
 
-Unlike other KlimaDAO contributors, Core members are not remunerated with KLIMA from the DAO wallet. The Core team has independent funding and a multiyear runway. If all other contributors left or the DAO wallet ran dry, the Core team would carry on with KlimaDAO's mission.
+Unlike other KlimaDAO contributors, Core members are not remunerated from the DAO wallet. The Core team has independent funding and a multiyear runway. If all other contributors left or the DAO wallet ran dry, the Core team would carry on with KlimaDAO's mission.
 
