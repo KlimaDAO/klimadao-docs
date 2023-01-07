@@ -9,6 +9,8 @@ description: Contracts for consuming on-chain carbon credits
 Unified interface for consuming tokenized carbon credits. Allows the user to provide a variety of input tokens (e.g. USDC, KLIMA, sKLIMA, wsKLIMA) and retire from a selection of different carbon credit pools (e.g. BCT, MCO2).
 
 * V1: [0xEde3bd57a04960E6469B70B4863cE1c9d9363Cb8](https://polygonscan.com/address/0xEde3bd57a04960E6469B70B4863cE1c9d9363Cb8)
+* V2: [0x8cE54d9625371fb2a068986d32C85De8E6e995f8](https://louper.dev/diamond/0x8cE54d9625371fb2a068986d32C85De8E6e995f8?network=polygon)&#x20;
+  * More details can be found [here](v2-diamond/).
 
 ## Bridge-Specific Retirements
 

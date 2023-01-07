@@ -25,7 +25,7 @@ Addresses common across the product are stored in the master contract:
 * [Staking](../contracts/staking.md)
 * [Staking Helper](../contracts/staking.md#stakinghelper)
 * [Treasury](../contracts/treasury.md)
-* [Klima Retirement Storage](../contracts/retirement.md#retirement-storage)
+* [Klima Retirement Storage](../contracts/retirement/#retirement-storage)
 
 Mappings used to flag and track different tokens and addresses:
 
@@ -157,7 +157,7 @@ function getSourceAmount(
         address _poolToken,
         uint256 _amount,
         bool _amountInCarbon
-    ) public view returns (uint256, uint256)i
+    ) public view returns (uint256, uint256)
 ```
 
 Return Values:
