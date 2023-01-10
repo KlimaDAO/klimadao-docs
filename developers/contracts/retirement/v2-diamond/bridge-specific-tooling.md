@@ -26,12 +26,13 @@ function toucan_redeemPoolDefault(
 ```
 
 ```solidity
-function toucan_redeemPoolDefault(
+function toucan_redeemPoolSpecific(
         address poolToken,
-        uint256 amount,
+        address[] memory projectTokens,
+        uint256[] memory amounts,
         LibTransfer.From fromMode,
         LibTransfer.To toMode
-    ) external nonReentrant returns (address[] memory projectTokens, uint256[] memory amounts)
+    ) external nonReentrant returns (uint256[] memory redeemedAmounts)
 ```
 
 ### C3
