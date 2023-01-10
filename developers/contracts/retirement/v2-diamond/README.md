@@ -4,6 +4,11 @@ The second version of the KlimaDAO retirement tooling is an implementation of an
 
 All facets and internal libraries share a common storage space using the `AppStorage` pattern.
 
+Main diamond contract is deployed to 0x8cE54d9625371fb2a068986d32C85De8E6e995f8 on Polygon.
+
+* View on [Louper](https://louper.dev/diamond/0x8cE54d9625371fb2a068986d32C85De8E6e995f8?network=polygon)
+* View on [Polygonscan](https://polygonscan.com/address/0x8ce54d9625371fb2a068986d32c85de8e6e995f8)
+
 There are currently two main types of facets within the Diamond.
 
 * Generalized Retirement
