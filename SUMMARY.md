@@ -44,8 +44,8 @@
   * [Staking](developers/contracts/staking.md)
   * [Tokens](developers/contracts/tokens.md)
   * [Treasury](developers/contracts/treasury.md)
-* [Deployment Addresses](developers/deployment-addresses.md)
 * [Data Sources](developers/data-sources.md)
+* [Deployment Addresses](developers/deployment-addresses.md)
 * [Guides](developers/guides/README.md)
   * [Stake KLIMA](developers/guides/stake-klima.md)
   * [Wrap sKLIMA](developers/guides/wrap-sklima.md)
@@ -54,7 +54,7 @@
   * [Retirement Aggregator Contract Guide](developers/guides/retirement-aggregator-contract-guide.md)
   * [Retirement UI Integration Guide](developers/guides/retirement-ui-integration-guide.md)
 * [Integration Examples](developers/integration-examples.md)
-* [Testnet Deployment](developers/testnet-deployment.md)
+* [Testing](developers/testing.md)
 
 ## 📚 References
 

@@ -1,9 +1,9 @@
 # Deployment Addresses
 
+See [this constants file](https://github.com/KlimaDAO/klimadao/blob/441bb1931a937d263829ca831fa157c652330aea/lib/constants/index.ts#L24) in our public frontend repository for a complete listing of the testnet contract addresses.
+
 {% tabs %}
 {% tab title="Polygon Mainnet" %}
-
-
 | Name                               | Address                                      | Source Code                                                                                                               | Explorer                                                                                      |
 | ---------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | `KlimaToken`                       | `0x4e78011Ce80ee02d2c3e649Fb657E45898257815` | [Code](https://github.com/KlimaDAO/klimadao-solidity/blob/main/contracts/tokens/regular/KlimaToken.sol)                   | [Link](https://polygonscan.com/address/0x4e78011ce80ee02d2c3e649fb657e45898257815)            |
@@ -99,4 +99,3 @@
 | NBO/KLIMA  | ``                                           | Code        | Link     |
 {% endtab %}
 {% endtabs %}
-

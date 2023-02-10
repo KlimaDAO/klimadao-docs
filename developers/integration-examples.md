@@ -16,13 +16,13 @@ Now, with the emergence of the tokenized carbon ecosystem, the end page of the c
 
 ## SushiSwap Green Fee
 
-_Current state:_ [_governance proposal approved_](https://snapshot.org/#/sushigov.eth/proposal/QmTv4DARwft9sjaiBKpmqJj81YaBBGM5ejK995KrceJekH) _with quorum for community signal; implementation ongoing between KlimaDAO and Sushi teams_
+_Current state:_ [Live in production](https://www.klimadao.finance/blog/klimadao-sushi-fully-automated-carbon-offsetting-green-fee)
 
 Since launch, KlimaDAO's primary DEX has been SushiSwap on Polygon. Given their public governance process, they made an obvious first partner to integrate tokenized carbon credits into the functioning of a DeFi protocol.
 
 In June of 2022, [KlimaDAO approached the SushiSwap community via their public governance forums](https://forum.sushi.com/t/klimadao-x-sushi-swap-carbon-offset-integration/10678?u=archimedes) proposing a first-of-its-kind "Green Fee" integration, where each time a user swaps, a small additional fee is added that gets swapped for carbon credits and retired on behalf of the user.
 
-This feature is currently being implemented in partnership between the KlimaDAO and Sushi teams. You can follow along with the open-source code being written by KlimaDAO contributors in our [contracts repo on GitHub](https://github.com/KlimaDAO/klimadao-solidity/tree/sushi-x-klima).
+This feature has been implemented in partnership between the KlimaDAO and Sushi teams. You can follow along with the open-source code being written by KlimaDAO contributors in our [contracts repo on GitHub](https://github.com/KlimaDAO/klimadao-solidity/tree/sushi-x-klima). See [this article](https://www.klimadao.finance/blog/klimadao-sushi-fully-automated-carbon-offsetting-green-fee) for more information about how to use the SushiSwap Green Fee.
 
 ## Lens Protocol BCT Retirement CollectModule
 
@@ -48,10 +48,16 @@ The Rings provide a concrete example of on-chain carbon game mechanics_,_ that o
 
 ## Climate-Positive NFTs: CO2\_Compound
 
-_Current state: live on mainnet_
+_Current state: live on Polygon mainnet_
 
 As part of the [Klima Infinity](../references/glossary.md#ki) program, KlimaDAO supports a [variety of climate-positive NFT strategies](https://www.klimadao.finance/blog/climate-positive-nft-guide).
 
 One in particular is exceedingly elegant and demonstrates the utility of the KLIMA token: [SVN's CO2\_Compound](https://co2compound.klimadao.finance/). This piece embedded a certain amount of sKLIMA into the NFT contract itself upon deployment, but the contract has no withdrawal function, so the tokens are effectively locked inside the NFT.
 
 Since sKLIMA accumulates a greater number of tokens over time through rebases, and since the KlimaDAO treasury will defend the intrinsic value backing each KLIMA token, as long as the KlimaDAO treasury continues to grow then the NFT supports the accrual of more and more carbon credits into the treasury, amplifying the climate-positive impact of the initial amount of KLIMA deposited into the contract.
+
+## Carbon Retirement Bin
+
+_Current state:_ [_live on Polygon mainnet_](https://polygonscan.com/address/0xc436fba39a1af5deb83be7e3f7cd77a005917f58#code)__
+
+Launched at the request of BasinDAO, this contract acts as a "burn address" of sorts for carbon. The contract's sole function is to retire the carbon tokens it holds via the KlimaDAO Retirement Aggregator with the beneficiary set to a popular burn address as well as the beneficiary name and msg "0". This popular burn address was chosen over 0x0 because the safeTransfer used to send some forms of retirement certificate NFTs will cause an error.
