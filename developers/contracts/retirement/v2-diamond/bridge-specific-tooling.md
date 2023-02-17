@@ -5,7 +5,7 @@ Some of the following functions allow for direct retirement of bridge-specific p
 ### Toucan
 
 ```solidity
-function toucan_retireExactTCO2WithEntity(
+function toucanRetireExactTCO2WithEntity(
         address carbonToken,
         uint256 amount,
         string memory retiringEntityString,
@@ -17,7 +17,7 @@ function toucan_retireExactTCO2WithEntity(
 ```
 
 ```solidity
-function toucan_redeemPoolDefault(
+function toucanRedeemPoolDefault(
         address poolToken,
         uint256 amount,
         LibTransfer.From fromMode,
@@ -26,7 +26,7 @@ function toucan_redeemPoolDefault(
 ```
 
 ```solidity
-function toucan_redeemPoolSpecific(
+function toucanRedeemPoolSpecific(
         address poolToken,
         address[] memory projectTokens,
         uint256[] memory amounts,
@@ -38,7 +38,7 @@ function toucan_redeemPoolSpecific(
 ### C3
 
 ```solidity
-function c3_retireExactC3TWithEntity(
+function c3RetireExactC3TWithEntity(
         address carbonToken,
         uint256 amount,
         string memory retiringEntityString,
@@ -50,7 +50,7 @@ function c3_retireExactC3TWithEntity(
 ```
 
 ```solidity
-function c3_redeemPoolDefault(
+function c3RedeemPoolDefault(
         address poolToken,
         uint256 amount,
         LibTransfer.From fromMode,
@@ -59,7 +59,7 @@ function c3_redeemPoolDefault(
 ```
 
 ```solidity
-function c3_redeemPoolSpecific(
+function c3RedeemPoolSpecific(
         address poolToken,
         address[] memory projectTokens,
         uint256[] memory amounts,

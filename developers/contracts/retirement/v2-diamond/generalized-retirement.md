@@ -122,4 +122,16 @@ function getSourceAmountDefaultRetirement(
         address carbonToken,
         uint256 retireAmount
     ) public view returns (uint256 amountIn)
+    
+function getSourceAmountDefaultRedeem(
+        address sourceToken,
+        address carbonToken, // Pool token being redeemed
+        uint256 redeemAmount
+    ) public view returns (uint256 amountIn)
+
+function getSourceAmountSpecificRedeem(
+        address sourceToken,
+        address carbonToken, // Pool token being redeemed
+        uint256[] memory redeemAmounts
+    ) public view returns (uint256 amountIn)
 ```
