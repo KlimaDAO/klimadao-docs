@@ -13,12 +13,6 @@
 * [Carbon Markets & Retail Offset Pricing](https://www.klimadao.finance/blog/carbon-markets-and-retail-offset-pricing)
 * [The KLIMA token's role in the Digital Carbon Market](https://www.klimadao.finance/blog/what-is-KLIMA-tokens-role-in-onchain-carbon-market)
 
-## 🏛 DAO
-
-* [Governance Framework](dao/governance-framework.md)
-* [Organizational Structure](dao/organizational-structure.md)
-* [Core Team Roles & Structure](dao/core-team-roles-and-structure.md)
-
 ## ⚙ Tokenomics and Mechanisms
 
 * [Primer on KLIMA](tokenomics-and-mechanisms/primer-on-klima.md)
@@ -57,6 +51,12 @@
   * [Retirement UI Integration Guide](developers/guides/retirement-ui-integration-guide.md)
 * [Integration Examples](developers/integration-examples.md)
 * [Testing](developers/testing.md)
+
+## 🏛 DAO
+
+* [Governance Framework](dao/governance-framework.md)
+* [Organizational Structure](dao/organizational-structure.md)
+* [Core Team Roles & Structure](dao/core-team-roles-and-structure.md)
 
 ## 📚 References
 

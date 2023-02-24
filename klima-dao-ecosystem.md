@@ -1,14 +1,12 @@
 # Ecosystem
 
-KlimaDAO will maximize value creation for its community by creating a virtuous cycle of growth.&#x20;
+KlimaDAO aims to maximize value creation for its community by creating a virtuous cycle of growth.&#x20;
 
-The activity within the ecosystem will increase the supply of KLIMA; a new KLIMA can only be minted by putting a BCT (Base Carbon Tonne) in the Klima DAO Treasury and removing it from the market.&#x20;
+The activity within the ecosystem will increase the supply of KLIMA; a new KLIMA can only be minted by putting a tonne of carbon like a BCT (Base Carbon Tonne) in the Klima DAO Treasury and removing it from the market.&#x20;
 
 Hence, when scale is achieved, the number of (KLIMA backed by) BCTs in the treasury will be inversely proportional to the availability of carbon offsets on the traditional carbon markets.&#x20;
 
 Removing carbon supply in the market and locking it within the treasury will interfere with demand conditions in the traditional markets, increasing the cost of carbon offsets and the related tokens.&#x20;
-
-Klima DAO will be deployed on Polygon, an energy efficient L2 solution; deploying on-chain will bridge carbon offset supply, with DeFi demand.
 
 There are two key pieces of infrastructure underpinning the system:
 
@@ -28,15 +26,17 @@ Key characteristics of the carbon offsets are brought on-chain when it is transf
 
 Different `TCO2` tokens can represent carbon offsets from different projects, e.g. a forestry project in Brazil or a soil carbon project from the US. However, creating an on-chain market for carbon requires standardisation. This is the role of the the on-chain carbon pools — each `TCO2` can be locked into the carbon pools in reward for an ERC-20 token such as`BCT, UBO, NCT or NBO`. `BCT` and the tokenized carbon tokens within the pools are therefore carbon index tokens, based on various offsets from multiple projects.
 
-**2. Klima DAO Ecosystem**
+Explore the Digital Carbon Market with the [KlimaDAO Digital Carbon Market dashboard](https://carbon.klimadao.finance/).
 
-The core principle of the KlimaDAO ecosystem is that a KLIMA token can only be minted by the treasury if at least 1 BCT (or other) is deposited in the treasury.
+**2. KlimaDAO Ecosystem**
+
+The core principle of the KlimaDAO ecosystem is that a KLIMA token can only be minted by the treasury if at least 1 tonne of carbon like a BCT (or other) is deposited in the treasury.
 
 Because every BCT is covered by a carbon credit that guarantees the mitigation or removal of 1 tonne of carbon, this system is built on, and internalises carbon.&#x20;
 
-KLIMA's value is connected with the value of the BCT (or other) locked in the KlimaDAO treasury; it is fair to say that on-chain carbon and the carbon offset value will be subject to market events.&#x20;
+KLIMA's value is connected with the value of the BCT (or other digital carbon tokens) locked in the KlimaDAO treasury; it is fair to say that on-chain carbon and the carbon offset value will be subject to market events.&#x20;
 
-Longer-term participation in the Klima ecosystem will be incentivised by three key mechanisms:&#x20;
+Longer-term participation in the Klima ecosystem will be incentivised by key protocol mechanisms:&#x20;
 
 **1. Bonding**
 

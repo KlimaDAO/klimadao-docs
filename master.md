@@ -20,7 +20,7 @@ KlimaDAO incentivizes new supply of Tokenized Carbon Tonnes (TCT) on the blockch
 
 KLIMA is the first building block for unlocking the carbon economy — an economy where more economic activity leads to an acceleration in planetary regeneration rather than more damage to our planet. Before, monetary incentives and environmental incentives aren't typically aligned.
 
-### 2: Become a Carbon-Based Reserve Currency.
+### 2: Become a Carbon-Based Reserve Cryptocurrency.
 
 The KLIMA ecosystem and monetary policy are managed by the KlimaDAO. This way we guarantee transparent decision making and long-term stability. In the long term, we can use this system to optimize stability, to transition to a global unit of account and medium of exchange. Currently, in the short term, we're focused on growth and wealth creation, to incentivize users to join the new wave of carbon currency.&#x20;
 
