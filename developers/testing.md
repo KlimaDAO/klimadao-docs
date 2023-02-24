@@ -1,6 +1,6 @@
 # Testing
 
-The recommended way to test Klima protocol contracts or smart contracts utilizing the [Klima Retirement Aggregator](guides/retirement-aggregator-contract-guide.md) is using a forked blockchain testing environment. Popular smart contract development tools such as Foundry or Hardhat allow you to fork the current state of the Polygon blockchain using an RPC. This allows you or your locally deployed contracts to interact with existing contracts as if you were actually on the Polygon mainnet.
+The recommended way to test Klima protocol contracts or smart contracts utilizing the [Klima Retirement Aggregator](guides/retirement-aggregator-v1-contract-guide.md) is using a forked blockchain testing environment. Popular smart contract development tools such as Foundry or Hardhat allow you to fork the current state of the Polygon blockchain using an RPC. This allows you or your locally deployed contracts to interact with existing contracts as if you were actually on the Polygon mainnet.
 
 * [Foundry Forge Forked Testing docs](https://book.getfoundry.sh/forge/fork-testing)
 * [Hardhat Forking docs](https://hardhat.org/hardhat-network/docs/guides/forking-other-networks)

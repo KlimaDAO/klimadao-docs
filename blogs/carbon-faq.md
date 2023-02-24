@@ -1,5 +1,7 @@
 # FAQ Carbon Markets
 
+{% embed url="https://www.youtube.com/watch?v=sFQgjfyy5MU" %}
+
 ## What are carbon markets?&#x20;
 
 The objective of carbon markets is to reduce greenhouse gas (GHG, or “carbon”) emissions cost-effectively by setting limits on emissions and enabling the trading of emission units, which are financial instruments representing emission reductions. Trading enables entities that can reduce emissions at lower cost to be paid to do so by higher-cost emitters, thus lowering the economic cost of reducing emissions.

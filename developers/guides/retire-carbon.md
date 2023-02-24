@@ -1,6 +1,8 @@
 # Retire Carbon
 
-For an in-depth review of the retirement aggregator smart contract, check out [this page](https://docs.klimadao.finance/developers/guides/retirement-aggregator-contract-guide).
+The following guide is written for V1 of the Retirement Aggregator. To learn more about V2, see [v2-diamond](../contracts/retirement/v2-diamond/ "mention").\
+\
+For an in-depth review of the retirement aggregator V1 smart contract, see [retirement-aggregator-v1-contract-guide.md](retirement-aggregator-v1-contract-guide.md "mention").
 
 ## Retiring Carbon via Solidity
 
@@ -9,7 +11,7 @@ For an in-depth review of the retirement aggregator smart contract, check out [t
 * Get some MATIC to pay for gas fees
 * Get some KLIMA tokens to spend to retire carbon
 * Get the contract addresses from here:
-  * [Retirement Aggregator](https://docs.klimadao.finance/developers/contracts/retirement#aggregator)
+  * [Retirement Aggregator](https://docs.klimadao.finance/developers/contracts/retirement#aggregator) V1
   * [KLIMA](https://docs.klimadao.finance/references/contracts/tokens#klima)
   * Address of carbon token to be retired
 

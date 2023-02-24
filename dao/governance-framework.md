@@ -12,7 +12,7 @@ Well, while full decentralization is the long-term goal that KlimaDAO will striv
 
 In mid-2021, a small team of carbon market professionals and blockchain entrepreneurs conceived of the KlimaDAO protocol as a mechanism to create transparent, liquid carbon markets, while making it more expensive to pollute and enabling new methods of carbon capture to become economically viable.&#x20;
 
-When laying the foundations of the protocol, the Core Team made informed decisions based on their professional experience and expert knowledge of both the Olympus protocol, which inspired KlimaDAO, as well as the legacy carbon markets that we aim to bring on-chain. The shared mental model they developed is encapsulated in the [KlimaDAO manifesto](../klima.fi-manifesto.md), and they shepherded the protocol to launch.&#x20;
+When laying the foundations of the protocol, the Core Team made informed decisions based on their professional experience and expert knowledge of both the Olympus protocol, which inspired KlimaDAO, as well as the legacy carbon markets that we aim to bring on-chain. The shared mental model they developed is encapsulated in the [KlimaDAO manifesto](broken-reference), and they shepherded the protocol to launch.&#x20;
 
 As the protocol began to take shape, the Core Team brought in early contributors to advise on policy decisions, help manage the community, and set up the DAO’s structure and organization. At this early stage, KIPs were formulated by the Core Team and posted directly on [Snapshot](https://snapshot.org/#/klimadao.eth) since there was not yet a forum for discussion (only Discord).
 
@@ -46,19 +46,9 @@ KlimaDAO’s Discord server is regularly trafficked by Core Team members and DAO
 
 #### Hosted Events
 
-KlimaDAO hosts regular office hours, policy chats, and AMA (“Ask Me Anything”) sessions via voice chat in Discord.\
+KlimaDAO hosts regular office hours, policy chats, and AMA (“Ask Me Anything”) sessions via Twitter spaces and voice chat in Discord.\
 \
-During office hours (as of this writing, hosted weekly on Thursdays at 9 am Pacific time in #office-hours), the Core Team delivers high-level updates on the DAO’s progress, and any server member is free to ask questions either via voice or in text chat for as long as time allows.&#x20;
-
-#### DAO Contributor Server
-
-In addition to the public Discord community, we also have a more private “working server” where the operations of the DAO are coordinated, with appropriate workspaces (channels, threads, roles) for each department and their projects. Our global workforce of contributors (\~100 as of January 2022) plays an essential role in the continued growth of the DAO, driving forward initiatives by bringing their personal skills and connections to bear.
-
-Access to the contributor server is open to all - we welcome anyone who wants to work for the DAO to submit an application to the appropriate department(s). However, internal departmental communications are only visible to those with the appropriate roles.
-
-See the pinned post in the "#🙋・contribute" channel in the main community Discord server for instructions on joining the contributor server.
-
-Ideas and discussions for proposals can be developed in both the KlimaDAO Discord Server, and the contributor server.&#x20;
+During office hours (as of this writing, hosted bi-weekly on Thursdays at 9 am Pacific time in #office-hours), the Core Team delivers high-level updates on the DAO’s progress, and anyone is free to ask questions either via voice or in text chat for as long as time allows.&#x20;
 
 ### Formal Discussion Forum
 

@@ -32,18 +32,19 @@ To properly value carbon, we need to fully integrate the **carbon market** with 
 
 Web3 is the perfect place to integrate these markets, it is a place where there is sufficient liquidity to have impact at scale, where smart contracts can securely and transparently govern transactions, and where contributions can be fairly incentivised.
 
-## **Enter: KlimaDAO** <a href="#8b79" id="8b79"></a>
+### KlimaDAO
 
-Klima DAO gives Web3 builders and users the opportunity to participate in the carbon market through the KLIMA token. KLIMA tokens are:
+In acknowledgement that the carbon markets are one of the most powerful and immediately available tools available to us to fight climate change at scale, KlimaDAO was designed.&#x20;
 
-* fungible: per the ERC20 token standard
-* backed: by at least 1 tonne of tokenized verified carbon offsets locked in the KlimaDAO treasury\*
-* useful: holders of KLIMA will have the ability to vote on Klima DAO policy
+KlimaDAO gives individuals and organizations the opportunity to participate directly in the carbon market via its infrastructure and the KLIMA token.&#x20;
 
-Therefore, the DAO serves the role of "de-central" bank, governing the monetary policy of this new carbon-backed currency, just as a central bank governs the monetary policy of a fiat currency. Over time, we will build an economy around KLIMA by driving adoption and unlocking growth of the _crypto-carbon_ economy.
+KlimaDAO infrastructure prioritises accessibility and transparency across the value chain of the carbon markets:&#x20;
 
-By developing KlimaDAO on transparent and open-source infrastructure, participation from Web3 developers, carbon projects, and climate experts will be welcomed, to both build this new economy and be rewarded for their contributions.
+* Project developers can access the infrastructure to immediately find counterparties for their carbon credits.
+* Those looking to acquire carbon credits can do so efficiently and securely using Web3 tools.
+* To claim the environmental benefit of any carbon credits, KlimaDAO’s retirement infrastructure enables this to happen with no reliance on intermediaries.
+* Anyone who holds tokens, can participate directly in the governance of the system.&#x20;
 
-Join our [Discord](https://discord.gg/ZzuuS6PGc2) and be an early contributor.
+The system is built on a public blockchain and is fully transparent, for the first time creating a level playing field across the market. The permissionless and interoperable nature of public blockchains enables greater innovation and lower transaction costs across the market.
 
-Blog [reference. ](https://klimadao.medium.com/)
+Ultimately, the KlimaDAO protocol aims to reorient the carbon markets to be more equitable, and ensure that they prioritize the climate. To achieve this, an economy is required, an economy built on top of open, transparent and public infrastructure.

@@ -1,15 +1,17 @@
 # Table of contents
 
 * [Introducing KlimaDAO](README.md)
-* [Manifesto](klima.fi-manifesto.md)
+* [Getting Started](getting-started.md)
 * [FAQ](master.md)
 * [Ecosystem](klima-dao-ecosystem.md)
 
 ## Understanding Carbon <a href="#blogs" id="blogs"></a>
 
 * [FAQ Carbon Markets](blogs/carbon-faq.md)
+* [Fundamentals of Digital Carbon](https://www.youtube.com/watch?v=S\_AkDvrdIbs)
 * [About Carbon Offsets](blogs/about-carbon-offsets.md)
-* [Carbon Markets & Retail Offset Pricing](https://klimadao.medium.com/carbon-markets-retail-offset-pricing-4eab0f6196c0)
+* [Carbon Markets & Retail Offset Pricing](https://www.klimadao.finance/blog/carbon-markets-and-retail-offset-pricing)
+* [The KLIMA token's role in the Digital Carbon Market](https://www.klimadao.finance/blog/what-is-KLIMA-tokens-role-in-onchain-carbon-market)
 
 ## 🏛 DAO
 
@@ -51,7 +53,7 @@
   * [Wrap sKLIMA](developers/guides/wrap-sklima.md)
   * [Bond Carbon or LP tokens](developers/guides/bond-carbon-or-lp-tokens.md)
   * [Retire Carbon](developers/guides/retire-carbon.md)
-  * [Retirement Aggregator Contract Guide](developers/guides/retirement-aggregator-contract-guide.md)
+  * [Retirement Aggregator V1 Contract Guide](developers/guides/retirement-aggregator-v1-contract-guide.md)
   * [Retirement UI Integration Guide](developers/guides/retirement-ui-integration-guide.md)
 * [Integration Examples](developers/integration-examples.md)
 * [Testing](developers/testing.md)
@@ -60,9 +62,8 @@
 
 * [Glossary](references/glossary.md)
 * [Links](references/links.md)
-* [Initial Discord Offering (IDO)](https://klimadao.medium.com/what-is-klima-dao-initial-discord-offering-5735c996c2ac)
-* [Fair Launch Auction (FLA aka LBP)](https://klimadao.medium.com/klima-dao-fair-launch-liquidity-bootstrapping-pool-announcement-a1832b59d7ad)
 * [Translations](references/translations.md)
+* [KlimaDAO, One Year On](https://www.klimadao.finance/blog/klimadao-one-year-on)
 
 ## 🙋♀ Get Involved
 

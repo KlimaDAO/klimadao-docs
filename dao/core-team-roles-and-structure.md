@@ -27,6 +27,7 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Community manager
 * Discord bot maintenance
 * Social media strategy and logistics
+* Smart contract development & deployment
 * DeFi domain expert - brings deep background and network from EthHub / DeFi Pulse / Index Coop
 * A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
 
