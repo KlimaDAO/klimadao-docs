@@ -10,7 +10,7 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 
 ### Archimedes
 
-* Backend functional steward
+* Lead backend developer
 * Smart contract development & deployment
 * Coordinates with Olympus on new contract development and technical advice.
 * Sources strategic partnerships
@@ -18,7 +18,7 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 
 ### Atmosfearful
 
-* Frontend functional steward
+* Lead frontend developer
 * Manages Scrum process for Engineering team
 * Supports product scoping, design feedback, UI/UX and accessibility
 
@@ -64,7 +64,7 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 
 ### Marcus Aurelius
 
-* Data & Metrics functional steward
+* Lead Data & Metrics developer
 * Policy Team contributor
 * Discord bot maintainer
 * Philosopher-in-Residence
@@ -86,8 +86,8 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 
 ### Sy Zygy
 
-* Partnerships functional steward
-* Product owner for [Klima Infinity (KI)](../references/glossary.md#ki), coordinates KI product vision and execution
+* Coordinate closely with Partnerships and Solutions teams to align priorities
+* Product owner for [Carbonmark](https://carbonmark.com) and [Klima Infinity (KI)](../references/glossary.md#ki), coordinates product vision and execution with Product Functional Steward
 * A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
 
 ## Compensation
