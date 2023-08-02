@@ -57,11 +57,6 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Helps other Core members with IRL logistics (e.g. contracts, expenses)
 * Attends meetings that require an IRL contact (meaning a contract to be signed, or something that has a legal implication)
 
-### Lil Yapper
-
-* Partnerships contributor; lead generation; sales
-* Social media strategy and FUD fighting
-
 ### Marcus Aurelius
 
 * Lead Data & Metrics developer
@@ -77,12 +72,6 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Narrative strategist: oversees public relations and communications&#x20;
 * Marketing contributor: content writer (thought leadership/protocol specifics); subject matter expert (carbon/climate topics)
 * Partnerships contributor: lead generation, carbon accounting, and strategic partnerships (especially institutions and VCM participants)
-
-### SpaghettiCO2nara
-
-* Finance lead - manages accounts for Core team and oversees DAO wallet health
-* Crypto Exchange/Industry Liaison - manages relationships with exchanges and partners.
-* Sources and coordinates with blue chip partners (celebrities, public figures, corporates)
 
 ### Sy Zygy
 
