@@ -12,7 +12,7 @@ Well, while full decentralization is the long-term goal that KlimaDAO will striv
 
 In mid-2021, a small team of carbon market professionals and blockchain entrepreneurs conceived of the KlimaDAO protocol as a mechanism to create transparent, liquid carbon markets, while making it more expensive to pollute and enabling new methods of carbon capture to become economically viable.&#x20;
 
-When laying the foundations of the protocol, the Core Team made informed decisions based on their professional experience and expert knowledge of both the Olympus protocol, which inspired KlimaDAO, as well as the legacy carbon markets that we aim to bring on-chain. The shared mental model they developed is encapsulated in the [KlimaDAO manifesto](broken-reference), and they shepherded the protocol to launch.&#x20;
+When laying the foundations of the protocol, the Core Team made informed decisions based on their professional experience and expert knowledge of both the Olympus protocol, which inspired KlimaDAO, as well as the legacy carbon markets that we aim to bring on-chain. The shared mental model they developed is encapsulated in the KlimaDAO manifesto, and they shepherded the protocol to launch.&#x20;
 
 As the protocol began to take shape, the Core Team brought in early contributors to advise on policy decisions, help manage the community, and set up the DAO’s structure and organization. At this early stage, KIPs were formulated by the Core Team and posted directly on [Snapshot](https://snapshot.org/#/klimadao.eth) since there was not yet a forum for discussion (only Discord).
 
@@ -38,7 +38,7 @@ To properly leverage the knowledge at the DAO's disposal, and build out the prot
 
 ### Discord Community
 
-[https://discord.com/invite/kx4pahaFw8](https://discord.com/invite/kx4pahaFw8)
+[https://discord.com/invite/klimadao](https://discord.com/invite/klimadao)
 
 Discord serves as the primary informal medium for community discussion. There are a wide variety of standing text channels, covering everything from detailed technical discussion in #policy-forum to sharing beautiful #nature-photography or just shooting the breeze in the #klimate-clubhouse.
 
