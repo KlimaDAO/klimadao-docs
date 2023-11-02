@@ -1,9 +1,9 @@
 # Table of contents
 
 * [KlimaDAO Documentation](README.md)
-* [Introducing KlimaDAO](<README (1).md>)
-* [Getting Started](getting-started.md)
-* [Ecosystem](klima-dao-ecosystem.md)
+* [Why KlimaDAO Exists](why-klimadao-exists.md)
+* [FAQ](faq.md)
+* [Ecosystem](ecosystem.md)
 
 ## Understanding Carbon <a href="#blogs" id="blogs"></a>
 

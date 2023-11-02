@@ -1,4 +1,4 @@
-# Introducing KlimaDAO
+# Why KlimaDAO Exists
 
 ## The Problem <a href="#744d" id="744d"></a>
 
@@ -43,7 +43,7 @@ KlimaDAO infrastructure prioritises accessibility and transparency across the va
 * Project developers can access the infrastructure to immediately find counterparties for their carbon credits.
 * Those looking to acquire carbon credits can do so efficiently and securely using Web3 tools.
 * To claim the environmental benefit of any carbon credits, KlimaDAO’s retirement infrastructure enables this to happen with no reliance on intermediaries.
-* Anyone who holds tokens, can participate directly in the governance of the system.&#x20;
+* Anyone who holds tokens can participate directly in the governance of the system.&#x20;
 
 The system is built on a public blockchain and is fully transparent, for the first time creating a level playing field across the market. The permissionless and interoperable nature of public blockchains enables greater innovation and lower transaction costs across the market.
 
