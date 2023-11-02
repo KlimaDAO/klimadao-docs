@@ -59,15 +59,7 @@ BridgeHelperUpdated(uint, address)
 
 Common parameters for `retireCarbon` functions:
 
-| Name                  | Type    | Description                                                                                                                                                                |
-| --------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_sourceToken`        | address | The contract address of the source token being used to retire.                                                                                                             |
-| `_poolToken`          | address | The contract address of the pool token being used to retire.                                                                                                               |
-| `_amount`             | uint256 | Either the amount of pool tokens to retire or the amount of source tokens to use. See `_amountInCarbon`. Expected values are in the number of decimals for the used token. |
-| `_amountInCarbon`     | bool    | This flags whether the amount being passed is in carbon to retire (`true`) or total source tokens to spend (`false`).                                                      |
-| `_beneficiaryAddress` | address | The address of the account receiving the benefit of retirement.                                                                                                            |
-| `_beneficiaryString`  | string  | A string representation of the beneficiary. Useful for specifying a company or protocol name in a readable format.                                                         |
-| `_retirementMessage`  | string  | Represents a specific message related to this retirement transaction. Example being "Retirement for 2022 Q1 travel."                                                       |
+<table><thead><tr><th width="257.79417966992634">Name</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>_sourceToken</code></td><td>address</td><td>The contract address of the source token being used to retire.</td></tr><tr><td><code>_poolToken</code></td><td>address</td><td>The contract address of the pool token being used to retire.</td></tr><tr><td><code>_amount</code></td><td>uint256</td><td>Either the amount of pool tokens to retire or the amount of source tokens to use. See <code>_amountInCarbon</code>. Expected values are in the number of decimals for the used token.</td></tr><tr><td><code>_amountInCarbon</code></td><td>bool</td><td>This flags whether the amount being passed is in carbon to retire (<code>true</code>) or total source tokens to spend (<code>false</code>). </td></tr><tr><td><code>_beneficiaryAddress</code></td><td>address</td><td>The address of the account receiving the benefit of retirement.</td></tr><tr><td><code>_beneficiaryString</code></td><td>string</td><td>A string representation of the beneficiary. Useful for specifying a company or protocol name in a readable format.</td></tr><tr><td><code>_retirementMessage</code></td><td>string</td><td>Represents a specific message related to this retirement transaction. Example being "Retirement for 2022 Q1 travel."</td></tr></tbody></table>
 
 ### retireCarbon
 

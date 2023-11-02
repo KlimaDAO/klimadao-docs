@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introducing KlimaDAO](README.md)
+* [KlimaDAO Documentation](README.md)
+* [Introducing KlimaDAO](<README (1).md>)
 * [Getting Started](getting-started.md)
 * [FAQ](master.md)
 * [Ecosystem](klima-dao-ecosystem.md)

@@ -34,7 +34,7 @@ While the initial implementation retires credits from the BCT pool, the implemen
 \
 Future work on this module would extend it to allow selectively retiring a particular project from the pool dynamically (i.e. configured by the publisher using the module) - assuming the underlying Lens data model allows such dynamic configuration of modules.
 
-__[_Pull request implementing the BCTRetireCollectModule_](https://github.com/lens-protocol/lens-protocol/pull/36)__
+[_Pull request implementing the BCTRetireCollectModule_](https://github.com/lens-protocol/lens-protocol/pull/36)
 
 ## Rings of Retirement
 
@@ -58,6 +58,6 @@ Since sKLIMA accumulates a greater number of tokens over time through rebases, a
 
 ## Carbon Retirement Bin
 
-_Current state:_ [_live on Polygon mainnet_](https://polygonscan.com/address/0xc436fba39a1af5deb83be7e3f7cd77a005917f58#code)__
+_Current state:_ [_live on Polygon mainnet_](https://polygonscan.com/address/0xc436fba39a1af5deb83be7e3f7cd77a005917f58#code)
 
 Launched at the request of BasinDAO, this contract acts as a "burn address" of sorts for carbon. The contract's sole function is to retire the carbon tokens it holds via the KlimaDAO Retirement Aggregator with the beneficiary set to a popular burn address as well as the beneficiary name and msg "0". This popular burn address was chosen over 0x0 because the safeTransfer used to send some forms of retirement certificate NFTs will cause an error.

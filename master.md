@@ -2,7 +2,7 @@
 
 ## What is KlimaDAO?
 
-KlimaDAO is a Decentralized Autonomous Organization to drive climate action and fulfill our [manifesto](https://klima-dao.gitbook.io/klima-dao/klima.fi-manifesto), via our carbon-backed, algorithmic cryptocurrency- the KLIMA token.&#x20;
+KlimaDAO is a Decentralized Autonomous Organization to drive climate action and fulfill our manifesto, via our carbon-backed, algorithmic cryptocurrency- the KLIMA token.&#x20;
 
 As the protocol grows, KlimaDAO will solve the critical problems of the carbon markets:&#x20;
 
