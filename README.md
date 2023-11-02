@@ -18,20 +18,20 @@ KlimaDAO is a public good for the planet which addresses the coordination failur
 💬 [Discord](https://discord.gg/klimadao) \
 📺 [YouTube](https://www.youtube.com/@KlimaDAOfinance)
 
-{% content-ref url="master.md" %}
-[master.md](master.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="dao/governance-framework.md" %}
+[governance-framework.md](dao/governance-framework.md)
 {% endcontent-ref %}
 
 ## Developer Links
 
 Github monorepo: [https://github.com/KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao)
 
-{% content-ref url="developers/contracts/" %}
-[contracts](developers/contracts/)
-{% endcontent-ref %}
-
-{% content-ref url="developers/guides/" %}
-[guides](developers/guides/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="developers/bug-bounty.md" %}
