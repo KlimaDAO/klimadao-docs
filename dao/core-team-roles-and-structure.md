@@ -2,19 +2,11 @@
 
 ## Structure & Governance
 
-KlimaDAO Core Team consists of the project’s co-founders, and individuals deemed to have the skills, delivery track record and demonstrated merit to contribute to the long-term mission and scaling-up of KlimaDAO’s product and platform.&#x20;
+KlimaDAO Core Team consists of the project’s co-founders, and individuals deemed to have the skills, delivery track record and demonstrated merit to contribute to KlimaDAO's long-term strategic mission.&#x20;
 
 The existing mechanism for on-boarding new members to Core is via a majority vote held by the existing Core members. The vote is an informed decision making process, with existing Core members having full insight into the prospective member’s track record - both in terms of their contributions to the DAO, and their previous experiences. The existing mechanism to relieve Core members of their duties is via a majority vote by Core team members.&#x20;
 
 ## Member Roles
-
-### Archimedes
-
-* Lead backend developer
-* Smart contract development & deployment
-* Coordinates with Olympus on new contract development and technical advice.
-* Sources strategic partnerships
-* Carbon market expert.
 
 ### Atmosfearful
 
@@ -78,8 +70,4 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Coordinate closely with Partnerships and Solutions teams to align priorities
 * Product owner for [Carbonmark](https://carbonmark.com) and [Klima Infinity (KI)](../references/glossary.md#ki), coordinates product vision and execution with Product Functional Steward
 * A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
-
-## Compensation
-
-Unlike other KlimaDAO contributors, Core members are not remunerated from the DAO wallet. The Core team has independent funding and a multiyear runway. If all other contributors left or the DAO wallet ran dry, the Core team would carry on with KlimaDAO's mission.
 
