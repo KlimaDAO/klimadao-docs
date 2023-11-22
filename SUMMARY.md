@@ -71,3 +71,4 @@
 
 * [Community Discord](https://discord.gg/klimadao)
 * [Governance Forum](https://forum.klimadao.finance/)
+* [Contact Us](https://www.klimadao.finance/contact)

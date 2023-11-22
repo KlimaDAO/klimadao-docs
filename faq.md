@@ -57,3 +57,9 @@ Klima DAO was inspired by [Olympus DAO](https://www.olympusdao.finance/). It was
 ## Who runs KlimaDAO?
 
 KlimaDAO is currently working towards becoming fully decentralised - see our [Governance Framework](dao/governance-framework.md) for more details. All decisions that affect the smart contract protocol are formed by community members on the forum and made by KLIMA holders through snapshot voting. The changes are then implemented by the Klima Core Team based on the result of the vote - see our [Organization Structure](dao/organizational-structure.md) for more details.
+
+## Is KLIMA backed?
+
+> We say, "KLIMA is backed by carbon offsets" because each KLIMA token has an Intrinsic Value (IV) of 1 BCT - which means the treasury must have at least 1 BCT held in reserves in order to mint 1 KLIMA.  In addition, the treasury contains excess reserves, comprising the [Carbon Custodied (CC)](references/glossary.md#cc) above 1 BCT which will eventually be [paid out to stakers of KLIMA in the form of rebase rewards](tokenomics-and-mechanisms/staking.md).&#x20;
+
+Continue reading about KlimaDAO's [Strategies for Defending Backing Value](https://docs.klimadao.finance/tokenomics-and-mechanisms/strategies-for-defending-backing-value).

@@ -36,6 +36,8 @@ Web3 is the perfect place to integrate these markets, it is a place where there 
 
 In acknowledgement that the carbon markets are one of the most powerful and immediately available tools available to us to fight climate change at scale, KlimaDAO was designed.&#x20;
 
+#### What does KlimaDAO do?
+
 KlimaDAO gives individuals and organizations the opportunity to participate directly in the carbon market via its infrastructure and the KLIMA token.&#x20;
 
 KlimaDAO infrastructure prioritises accessibility and transparency across the value chain of the carbon markets:&#x20;
