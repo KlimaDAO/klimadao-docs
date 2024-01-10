@@ -62,7 +62,7 @@ To achieve additionality, the carbon crediting program needs to provide incentiv
 
 [Source](https://economics.rabobank.com/publications/2021/march/can-voluntary-carbon-markets-change-the-game-for-climate-change/)
 
-### ICROA Code of Best Practice for Offsets
+### ICROA Code of Best Practice for Offsetting
 
 ICROA: The International Carbon Reduction and Offsetting Alliance
 

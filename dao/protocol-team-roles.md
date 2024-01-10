@@ -1,10 +1,10 @@
-# Core Team Roles & Structure
+# Protocol Team Roles
 
 ## Structure & Governance
 
-KlimaDAO Core Team consists of the project’s co-founders, and individuals deemed to have the skills, delivery track record and demonstrated merit to contribute to KlimaDAO's long-term strategic mission.&#x20;
+KlimaDAO's Protocol Team consists of the project’s co-founders, and individuals deemed to have the skills, delivery track record and demonstrated merit to contribute to KlimaDAO's long-term strategic mission.&#x20;
 
-The existing mechanism for on-boarding new members to Core is via a majority vote held by the existing Core members. The vote is an informed decision making process, with existing Core members having full insight into the prospective member’s track record - both in terms of their contributions to the DAO, and their previous experiences. The existing mechanism to relieve Core members of their duties is via a majority vote by Core team members.&#x20;
+Membership of the Protocol Team is currently managed by the President of the Klima Foundation.
 
 ## Member Roles
 
@@ -25,7 +25,7 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 
 ### Cujo
 
-* Policy Team co-steward
+* Policy contributor
 * Data & Metrics contributor (Dune dashboards, Subgraphs)
 * Smart contract development & deployment
 * Financial modeling to inform Policy Team objectives
@@ -51,9 +51,8 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 
 ### Marcus Aurelius
 
-* Lead Data & Metrics developer
-* Policy Team contributor
-* Discord bot maintainer
+* Data & Metrics developer
+* Policy contributor
 * Philosopher-in-Residence
 * A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
 
@@ -64,10 +63,4 @@ The existing mechanism for on-boarding new members to Core is via a majority vot
 * Narrative strategist: oversees public relations and communications&#x20;
 * Marketing contributor: content writer (thought leadership/protocol specifics); subject matter expert (carbon/climate topics)
 * Partnerships contributor: lead generation, carbon accounting, and strategic partnerships (especially institutions and VCM participants)
-
-### Sy Zygy
-
-* Coordinate closely with Partnerships and Solutions teams to align priorities
-* Product owner for [Carbonmark](https://carbonmark.com) and [Klima Infinity (KI)](../references/glossary.md#ki), coordinates product vision and execution with Product Functional Steward
-* A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
 

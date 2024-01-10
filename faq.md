@@ -38,7 +38,7 @@ To see the current available bonds, visit [https://app.klimadao.finance/#/bonds]
 
 To explore the carbon marketplace, visit [https://carbonmark.com/projects](https://carbonmark.com/projects).
 
-To retire carbon tokens, visit [https://app.klimadao.finance/#/offset](https://app.klimadao.finance/#/offset).
+To buy, sell or retire carbon credits, visit [https;//carbonmark.com](https://carbonmark.com)
 
 {% embed url="https://www.youtube.com/watch?v=nV54gFH3Vy8" %}
 
@@ -56,10 +56,10 @@ Klima DAO was inspired by [Olympus DAO](https://www.olympusdao.finance/). It was
 
 ## Who runs KlimaDAO?
 
-KlimaDAO is currently working towards becoming fully decentralised - see our [Governance Framework](dao/governance-framework.md) for more details. All decisions that affect the smart contract protocol are formed by community members on the forum and made by KLIMA holders through snapshot voting. The changes are then implemented by the Klima Core Team based on the result of the vote - see our [Organization Structure](dao/organizational-structure.md) for more details.
+KlimaDAO is on a path of progressive decentralization - see our [Governance Framework](dao/governance-framework.md) for more details. All decisions that affect the smart contract protocol or treasury assets are formed by community members on the forum and decided by KLIMA holders through Snapshot voting. The changes are then implemented by the DAO multisig (composed of individuals with obligations to the DAO's legal structure) based on the result of the vote - see our [Organization Structure](dao/organizational-structure.md) for more details.
 
 ## Is KLIMA backed?
 
-> We say, "KLIMA is backed by carbon offsets" because each KLIMA token has an Intrinsic Value (IV) of 1 BCT - which means the treasury must have at least 1 BCT held in reserves in order to mint 1 KLIMA.  In addition, the treasury contains excess reserves, comprising the [Carbon Custodied (CC)](references/glossary.md#cc) above 1 BCT which will eventually be [paid out to stakers of KLIMA in the form of rebase rewards](tokenomics-and-mechanisms/staking.md).&#x20;
+We say, "KLIMA is backed by carbon credits" because [each KLIMA token has an Intrinsic Value (IV) of 1 BCT](tokenomics-and-mechanisms/primer-on-klima.md) - which means the treasury must have at least 1 BCT held in reserves in order to mint 1 KLIMA.  In addition, the treasury typically contains excess reserves, comprising the [Carbon Custodied (CC)](references/glossary.md#cc) above 1 BCT which will eventually be [paid out to stakers of KLIMA in the form of rebase rewards](tokenomics-and-mechanisms/staking.md).&#x20;
 
 Continue reading about KlimaDAO's [Strategies for Defending Backing Value](https://docs.klimadao.finance/tokenomics-and-mechanisms/strategies-for-defending-backing-value).

@@ -4,9 +4,11 @@ description: >-
   know to be an expert on KlimaDAO
 ---
 
-# KlimaDAO Documentation
+# Welcome to KlimaDAO
 
-KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance. KlimaDAO provides public goods and common-pool resources to drive an equitable, sustainable, and blockchain-enabled economy.
+KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance.&#x20;
+
+KlimaDAO provides public goods and common-pool resources to drive an equitable, sustainable, and digitally-enabled economy.
 
 💻 [Website](https://klimadao.finance/)\
 🌲 [App](https://app.klimadao.finance/)\
@@ -28,7 +30,7 @@ KlimaDAO is a public good for the planet which addresses the coordination failur
 
 ## Developer Links
 
-Github monorepo: [https://github.com/KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao)
+Primary GitHub monorepo: [https://github.com/KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao)
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

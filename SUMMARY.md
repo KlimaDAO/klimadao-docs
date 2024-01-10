@@ -1,28 +1,24 @@
 # Table of contents
 
-* [KlimaDAO Documentation](README.md)
+* [Welcome to KlimaDAO](README.md)
 * [Why KlimaDAO Exists](why-klimadao-exists.md)
 * [FAQ](faq.md)
 * [Ecosystem](ecosystem.md)
 
 ## Understanding Carbon <a href="#blogs" id="blogs"></a>
 
+* [About Verified Carbon Credits](blogs/about-carbon-offsets.md)
 * [FAQ Carbon Markets](blogs/carbon-faq.md)
 * [Fundamentals of Digital Carbon](https://www.youtube.com/watch?v=S\_AkDvrdIbs)
-* [About Verified Carbon Credits](blogs/about-carbon-offsets.md)
 * [Carbon Markets & Retail Offset Pricing](https://www.klimadao.finance/blog/carbon-markets-and-retail-offset-pricing)
 * [The KLIMA token's role in the Digital Carbon Market](https://www.klimadao.finance/blog/what-is-KLIMA-tokens-role-in-onchain-carbon-market)
 
 ## ⚙ Tokenomics and Mechanisms
 
 * [Primer on KLIMA](tokenomics-and-mechanisms/primer-on-klima.md)
-* [Initial Network State](tokenomics-and-mechanisms/initial-network-state.md)
-* [Emission Mechanisms](tokenomics-and-mechanisms/emission-mechanisms.md)
 * [Bonding (1,1)](tokenomics-and-mechanisms/bonding-1-1.md)
 * [Staking (🌳,🌳)](tokenomics-and-mechanisms/staking.md)
-* [Market Dynamics](tokenomics-and-mechanisms/market-dynamics.md)
 * [The Importance of POL](tokenomics-and-mechanisms/the-importance-of-pol.md)
-* [Game Theory (Olympus Inspired)](tokenomics-and-mechanisms/game-theory-olympus-inspired.md)
 * [Strategies for Defending Backing Value](tokenomics-and-mechanisms/strategies-for-defending-backing-value.md)
 
 ## 🛠 Developers
@@ -56,7 +52,7 @@
 
 * [Governance Framework](dao/governance-framework.md)
 * [Organizational Structure](dao/organizational-structure.md)
-* [Core Team Roles & Structure](dao/core-team-roles-and-structure.md)
+* [Protocol Team Roles](dao/protocol-team-roles.md)
 
 ## 📚 References
 

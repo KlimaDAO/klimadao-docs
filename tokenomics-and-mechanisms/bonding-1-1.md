@@ -2,7 +2,7 @@
 
 ### **What is Bonding?**
 
-Bonding is the process of getting KLIMA. The protocol will provide an amount of KLIMA, and a locking period for the duration of the bond. Today, the protocol takes in:&#x20;
+Bonding is the process of getting KLIMA. The protocol will provide an amount of KLIMA, and a locking period for the duration of the bond. Today, governance has approved the protocol to take in:&#x20;
 
 1. Reserve Assets:&#x20;
    * BCT (Base Carbon Tonne; trades on SushiSwap)
