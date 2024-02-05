@@ -22,6 +22,7 @@ Membership of the Protocol Team is currently managed by the President of the Kli
 * Smart contract development & deployment
 * DeFi domain expert - brings deep background and network from EthHub / DeFi Pulse / Index Coop
 * A public face of Core - attends conferences and other public speaking engagements to represent KlimaDAO
+* Technical reference documentation and developer relations
 
 ### Cujo
 

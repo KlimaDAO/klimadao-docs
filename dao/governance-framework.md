@@ -12,7 +12,7 @@ Well, while full decentralization is the long-term goal that KlimaDAO will striv
 
 In mid-2021, a small team of carbon market professionals and blockchain entrepreneurs conceived of the KlimaDAO protocol as a mechanism to create transparent, liquid carbon markets, while making it more expensive to pollute and enabling new methods of carbon capture to become economically viable.&#x20;
 
-When laying the foundations of the protocol, the Core Team made informed decisions based on their professional experience and expert knowledge of both the Olympus protocol, which inspired KlimaDAO, as well as the legacy carbon markets that we aim to bring on-chain. The shared mental model they developed is encapsulated in the KlimaDAO manifesto, and they shepherded the protocol to launch.&#x20;
+When laying the foundations of the protocol, the original Core Team made informed decisions based on their professional experience and expert knowledge of both the Olympus protocol, which inspired KlimaDAO, as well as the legacy carbon markets that we aim to bring on-chain. The shared mental model they developed is encapsulated in the KlimaDAO manifesto, and they shepherded the protocol to launch.&#x20;
 
 As the protocol began to take shape, the Core Team brought in early contributors to advise on policy decisions, help manage the community, and set up the DAO’s structure and organization. At this early stage, KIPs were formulated by the Core Team and posted directly on [Snapshot](https://snapshot.org/#/klimadao.eth) since there was not yet a forum for discussion (only Discord).
 
@@ -22,7 +22,7 @@ As any new protocol with ambitions of decentralization gets off the ground, the 
 
 ## Initial State
 
-Since the protocol launched, the Core Team has retained access to contracts and wallets behind 3-of-5 Gnosis Safe multisig wallets - meaning at least 3 Core members must agree to approve a transaction out of 5 total signers.
+Since the protocol launched, the Core Team has retained access to contracts and wallets behind 3-of-5 Gnosis Safe multisig wallets - meaning at least 3 Core members must agree to approve a transaction out of 5 total signers. With the [adoption of the Klima Foundation](https://forum.klimadao.finance/d/290-kip-53-klima-foundation), these multisigs are now controlled by legally obligated representatives of  Foundation.&#x20;
 
 These multisig wallets are used to execute adjustments to policy variables such as bond capacities and reward rate, as well as to distribute funds from the DAO wallet to pay contributors and fund DAO initiatives.
 
@@ -93,7 +93,7 @@ A potential solution to responsibly decentralize KIP publication rights is a "st
 
 One example of a governance function that we already plan to decentralize (eventually) is the reward rate parameter that contributes to setting the staking [AKR](../references/glossary.md#akr). At this time, the Policy team actively manages the reward rate and proposes individual changes via KIPs within a framework laid out in KIP-3. Once the protocol matures and the AKR stabilizes at a more sustainable level, we can turn control over the reward rate over to an on-chain “gauge” that the community votes to change, with changes automatically implemented via a smart contract.
 
-_**Per the passage of KIP-19, a formal Decentralization Working Group (DWG) will be established by the end of Q2 2022. Made up of representatives from every level of DAO participation, from Core Team to community members, this group will deliver a report on best practices and common antipatterns in decentraized governance, as well as a  set of specific  recommendations for KlimaDAO's decentralization roadmap. After discussion and review by the community, this roadmap would be implemented by future KIPs when and as appropriate.**_
+_**Per the passage of KIP-19, a formal Decentralization Working Group (DWG) has been established as of Q2 2022. Made up of representatives from every level of DAO participation, from Protocol Team to community members, this group will deliver a report on best practices and common antipatterns in decentraized governance, as well as a set of specific recommendations for KlimaDAO's decentralization roadmap. After discussion and review by the community, this roadmap would be implemented by future KIPs when and as appropriate.**_
 
 ## Further Reading
 
