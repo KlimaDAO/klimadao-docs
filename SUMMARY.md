@@ -9,8 +9,6 @@
 
 * [About Verified Carbon Credits](blogs/about-carbon-offsets.md)
 * [FAQ Carbon Markets](blogs/carbon-faq.md)
-* [Fundamentals of Digital Carbon](https://www.youtube.com/watch?v=S\_AkDvrdIbs)
-* [Carbon Markets & Retail Offset Pricing](https://www.klimadao.finance/blog/carbon-markets-and-retail-offset-pricing)
 * [The KLIMA token's role in the Digital Carbon Market](https://www.klimadao.finance/blog/what-is-KLIMA-tokens-role-in-onchain-carbon-market)
 
 ## ⚙ Tokenomics and Mechanisms

@@ -10,9 +10,13 @@ Removing carbon supply in the market and locking it within the treasury will int
 
 There are two key pieces of infrastructure underpinning the system:
 
-**1.Carbon Offset Tokenisation: Toucan Carbon Bridge**
+**1. Digital Carbon**
 
-The BCT (Base Carbon Tonne) — KlimaDAO's based tokens — is a carbon offset index token representing a basket of different tokenised carbon tonnes starting with`TCO2`.
+{% embed url="https://www.youtube.com/watch?v=S_AkDvrdIbs" %}
+A video explaining the fundamentals of Digital Carbon
+{% endembed %}
+
+The BCT (Base Carbon Tonne) — KlimaDAO's base tokens — is a carbon offset index token representing a basket of different tokenised carbon tonnes starting with`TCO2`.
 
 Every `TCO2` represents a unique carbon offset brought on-chain using the [Toucan Carbon Bridge](https://docs.toucan.earth/protocol/modules/carbon-bridge), [Moss.earth](https://moss.earth/) and [C3.app](https://www.c3.app/). Each offset is obtained by bringing 1 tonne of carbon dioxide emissions mitigated or removed from the atmosphere from verified projects across the globe.&#x20;
 

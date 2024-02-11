@@ -4,6 +4,89 @@ description: Processes and tooling used to govern the Klima protocol
 
 # Governance Framework
 
+## Current Governance Process
+
+KlimaDAO and the ecosystem it operates in is maturing rapidly. Talent is being onboarded to contribute to, and influence the direction of the protocol's growth. The community is expanding, and bringing a range of perspectives, from DeFi natives and carbon market experts, to people who are getting involved with their first DAO. The markets that KlimaDAO operate in (DeFi, Digital Carbon Markets (DCM) and the Voluntary Carbon Markets (VCM)) are also evolving at breakneck speed.
+
+To properly leverage the knowledge at the DAO's disposal, and build out the protocol for long-term success in the interest of all those who have a stake in its growth, KlimaDAO has established a more formal approach to governance decisions which is being used today, discussed below.&#x20;
+
+<figure><img src="https://i.imgur.com/6Zh5S3Q.png" alt=""><figcaption><p>Flow of Governance Proposals from Idea to Hard Consensus</p></figcaption></figure>
+
+### Discord Community
+
+[https://discord.com/invite/klimadao](https://discord.com/invite/klimadao)
+
+Discord serves as the primary informal medium for community discussion. There are a wide variety of channels where you can discuss everything from governance proposals to the technicalities of the protocol.
+
+KlimaDAO’s Discord server is regularly trafficked by the KlimaDAO Foundation Directors, Protocol team members and other DAO contributors where you can seek information and share your thoughts directly in conversation.
+
+#### Hosted Events
+
+KlimaDAO hosts regular office hours, policy chats, and AMA (“Ask Me Anything”) sessions via Twitter spaces and voice chat in Discord.\
+\
+During office hours (check the events section in the Discord), the Protocol team delivers high-level updates on the DAO’s progress, and anyone is free to ask questions either via voice or in text chat for as long as time allows.&#x20;
+
+### Formal Discussion Forum
+
+[https://forum.klimadao.finance](https://forum.klimadao.finance)
+
+The KlimaDAO Forum is the hub for more formal discussion and debate.  Request for Comment (RFC) periods begin here, where people can make their thoughts heard on the latest Klima Improvement Proposals (KIPs).  An RFC can originate internally, from a community member, or from third parties such as carbon project developers seeking funding or new carbon bridges who wish to integrate into the Klima ecosystem.&#x20;
+
+After the RFC, if the community is on-board with the proposal, a formal KIP will be drafted by the policy team, which will be posted on the forum with an informal poll - acting as a temperature check to suggest if the proposal may need alterations or further discussion.&#x20;
+
+Proposals can also originate directly from the DAO without an RFC, including for:\
+\- major reward rate adjustments\
+\- frameworks for DAO operations such as contributor compensation\
+\- introduction of new bond types not associated with a partnership (for instance, KIP-8 adding KLIMA/USDC LP bonds)
+
+_**Note: only the policy team can post KIP temperature check votes in the “Proposals” section of the forum, but anyone can open a general discussion topic or post an RFC in the “General” section.**_
+
+#### The Guarantee Committee
+
+The Guarantee Committee is an office held within the Klima Foundation, with the intention of ensuring robustness and integrity around KlimaDAO’s ongoing interactions with the carbon markets. Specifically, the Guarantee Committee is tasked with the thorough examination of RFCs brought forth from the market with regards to KlimaDAO’s carbon financing agreements.
+
+The Guarantee Committee members are therefore expected to have significant knowledge and experience within the climate finance and environmental market domains. This Committee will be positioned to shepherd the DAO’s initiatives within the climate finance space, and mitigate risks associated with these activities, considering factors such as technical, economic and reputational risks, and conflicts of interests that may arise within the market. The Community will have the opportunity to affirm new appointments to the Guarantee Committee, via a KIP.
+
+The Committee's authority is exercised with the sole intention of advancing the DAO's interests, ensuring that its operations are not only efficient but also reflective of its core mission. Members of the Guarantee Committee are appointed for a tenure of three years, with the possibility of reappointment, signifying a long-term commitment to the DAO's vision and stability.
+
+Therefore, the Guarantee Committee will have the ability to make recommendations to the community regarding carbon financing initiatives – however, it will not have the ability to make decisions on behalf of the community (i.e. a KIP will still be required to ratify financing agreements).
+
+It is anticipated that the Guarantee Committee will at times work with the Klima Review Committee [(defined in KIP-35)](https://snapshot.org/#/klimadao.eth/proposal/0x2cedb818786730e1ecf1a703ccc6ddd1ec3b5d97b3fd05bc178169fe2f094979) to progress or raise concerns around RFCs and KIPs specifically pertaining to climate finance.
+
+### Snapshot Voting
+
+[https://snapshot.org/#/klimadao.eth/](https://snapshot.org/#/klimadao.eth/)
+
+After passing the informal poll on the forum, official KIPs will be published on Snapshot by the Protocol Team for a formal, on-chain vote by KLIMA token holders.&#x20;
+
+Originally, voting power on Snapshot was determined by the amount of KLIMA owned in a one-to-one ratio. All forms of KLIMA (such as staked and wrapped) are eligible to vote, except if it is deposited into another DeFi platform or smart contract.
+
+#### KIP-40: Trial - Progressing KlimaDAO's Governance Framework
+
+KlimaDAO launched a 6-month governance trial of anti-plutocratic voting measures to increase stakeholder influence and engagement as established in [KIP-40](https://snapshot.org/#/klimadao.eth/proposal/0x1e0ddb862433c186478f8ef930c2c4d74f03f9c5ffed99fcf527479c877ff97d). This trial consisted of an integration of [Gitcoin Passports](https://passport.gitcoin.co/) to increase Sybil Resistance of the Protocol, as well as Snapshot’s [Quadratic Voting](https://www.gitcoin.co/blog/quadratic-voting-a-how-to-guide) feature, to explore solutions that can increase the project’s resilience, levels of decentralization and community ownership. For more information, see the [KIP-40 forum discussion](https://forum.klimadao.finance/d/243-rfc-trial-progressing-klimadaos-governance-framework).
+
+**Gitcoin Passports**: Gitcoin Passports serves as an innovative solution to identify unique individuals without violating privacy. It leverages third-party services to offer verified credentials or "stamps", which are collectively utilized to verify an individual's identity, without revealing personal information.
+
+Integrating Gitcoin Passport into our governance system will provide a robust mechanism for [sybil resistant](https://docs.snapshot.org/space-handbook/sybil-resistance-scam-and-spam-prevention) unique user verification, significantly reducing the risk of vote manipulation. It prevents the same individual from casting multiple votes via different wallets, therefore maintaining a true representation of the individual's voting power.
+
+**At this time, Snapshot is configured to utilize quadratic voting and you must have your Gitcoin Passport configured and stamped with at least 2 of 7 accounts before a Snapshot vote is started.** Users may link or "stamp their passport" with the following accounts:
+
+* Coinbase
+* Discord
+* Facebook
+* Github
+* Google
+* Linkedin
+* Twitter
+
+**At this time, you must have 2 of 7 associated accounts linked to cast your vote in a Snapshot vote.**
+
+Note that not all actions are subject to a KIP vote. These include smaller-scale maintenance changes, such as Bond Control Variable (BCV) adjustments, as well as established protocol functions that require manual action, such as acting as “buyer of last resort” should KLIMA ever trade below 1 BCT.&#x20;
+
+For comparison, larger and less urgent changes, such as significant reward rate adjustments, or adding new assets to the treasury, will require KIP votes.
+
+In the event that the policy team or Protocol Team wishes to reserve a new power, such that a KIP vote is not required for a specific action, this change will itself be subject to a vote.
+
 ## Promises and Perils of Decentralized Governance <a href="#docs-internal-guid-ae4a6fe9-7fff-7aba-b99a-9e0626c1dac9" id="docs-internal-guid-ae4a6fe9-7fff-7aba-b99a-9e0626c1dac9"></a>
 
 It’s in the name, Klima is a _DAO_, so it’s fully decentralized, right?
@@ -22,78 +105,27 @@ As any new protocol with ambitions of decentralization gets off the ground, the 
 
 ## Initial State
 
-Since the protocol launched, the Core Team has retained access to contracts and wallets behind 3-of-5 Gnosis Safe multisig wallets - meaning at least 3 Core members must agree to approve a transaction out of 5 total signers. With the [adoption of the Klima Foundation](https://forum.klimadao.finance/d/290-kip-53-klima-foundation), these multisigs are now controlled by legally obligated representatives of  Foundation.&#x20;
+Since the protocol launched, the Core Team has retained access to contracts and wallets behind 3-of-5 Gnosis Safe multisig wallets - meaning at least 3 Core members must agree to approve a transaction out of 5 total signers. With the [adoption of the Klima Foundation](https://forum.klimadao.finance/d/290-kip-53-klima-foundation), these multisigs are now controlled by legally obligated representatives of Klima Foundation.&#x20;
 
 These multisig wallets are used to execute adjustments to policy variables such as bond capacities and reward rate, as well as to distribute funds from the DAO wallet to pay contributors and fund DAO initiatives.
 
-This initial system requires a great deal of trust in the Core Team to shepherd the protocol to maturity. Thus it is important that we have a transparent governance process to guide the Core Team’s decisions with ample community input, as well as prepare the community to eventually govern more aspects of the protocol as it is gradually decentralized.
+The initial system required a great deal of trust in the Core Team to shepherd the protocol to maturity. Thus, it is important to have a transparent governance process to guide the Core Team’s decisions with ample community input, as well as prepare the community to eventually govern more aspects of the protocol as it is gradually decentralized. Over time, the governance process has continued to mature and promote further decentralization.
 
-## Current Governance Process
-
-KlimaDAO is maturing rapidly. Talent is being onboarded to contribute to, and influence the direction of the protocol's growth. The community is expanding, and bringing a range of perspectives, from DeFi natives and carbon market experts, to people who are getting involved with their first DAO. The markets that KlimaDAO operate in (DeFi, ReFi and the Voluntary Carbon Markets) are also evolving at breakneck speed.
-
-To properly leverage the knowledge at the DAO's disposal, and build out the protocol for long-term success in the interest of all those who have a stake in its growth, KlimaDAO has established a more formal approach to governance decisions which is being used today, discussed below.&#x20;
-
-![Flow of Governance Proposals from Idea to Hard Consensus](../.gitbook/assets/KlimaDAO\_governance\_v2.png)
-
-### Discord Community
-
-[https://discord.com/invite/klimadao](https://discord.com/invite/klimadao)
-
-Discord serves as the primary informal medium for community discussion. There are a wide variety of standing text channels, covering everything from detailed technical discussion in #policy-forum to sharing beautiful #nature-photography or just shooting the breeze in the #klimate-clubhouse.
-
-KlimaDAO’s Discord server is regularly trafficked by Core Team members and DAO contributors, who relay messages from the community to the relevant departments or other Core Team members as necessary. There is even a dedicated channel for feedback and suggestions that is monitored by DAO contributors.&#x20;
-
-#### Hosted Events
-
-KlimaDAO hosts regular office hours, policy chats, and AMA (“Ask Me Anything”) sessions via Twitter spaces and voice chat in Discord.\
-\
-During office hours (as of this writing, hosted bi-weekly on Thursdays at 9 am Pacific time in #office-hours), the Core Team delivers high-level updates on the DAO’s progress, and anyone is free to ask questions either via voice or in text chat for as long as time allows.&#x20;
-
-### Formal Discussion Forum
-
-[https://forum.klimadao.finance](https://forum.klimadao.finance)
-
-The KlimaDAO Forum is the hub for more formal discussion and debate.  Request for Comment (RFC) periods begin here, where people can make their thoughts heard on the latest Klima Improvement Proposals (KIPs).  An RFC can originate internally, from a community member, or from third parties such as new carbon bridges who wish to integrate into the Klima ecosystem.&#x20;
-
-After the RFC, if the community is on-board with the proposal, a formal KIP will be drafted by the policy team, which will be posted on the forum with an informal poll - acting as a temperature check to suggest if the proposal may need alterations or further discussion.&#x20;
-
-Proposals can also originate directly from the DAO without an RFC, including for:\
-\- major reward rate adjustments\
-\- frameworks for DAO operations such as contributor compensation\
-\- introduction of new bond types not associated with a partnership (for instance, KIP-8 adding KLIMA/USDC LP bonds)
-
-_**Note: only the policy team can post KIP temperature check votes in the “Proposals” section of the forum, but anyone can open a general discussion topic or post an RFC in the “General” section.**_
-
-### Snapshot Voting
-
-[https://snapshot.org/#/klimadao.eth/](https://snapshot.org/#/klimadao.eth/)
-
-After passing the informal poll on the forum, official KIPs will be published on Snapshot by the Core Team for a formal, on-chain vote by KLIMA token holders.&#x20;
-
-At the time of writing, voting power on Snapshot is determined by the amount of KLIMA owned in a one-to-one ratio. All forms of KLIMA (such as staked and wrapped) are eligible to vote, except for leveraged KLIMA (fsKLIMA).
-
-Note that not all actions are subject to a KIP vote. These include smaller-scale maintenance changes, such as Bond Control Variable (BCV) adjustments, as well as established protocol functions that require manual action, such as acting as “buyer of last resort” should KLIMA ever trade below 1 BCT.&#x20;
-
-For comparison, larger and less urgent changes, such as significant reward rate adjustments, or adding new assets to the treasury, will require KIP votes.
-
-In the event that the policy team or Core Team wishes to reserve a new power, such that a KIP vote is not required for a specific action, this change will itself be subject to a vote.
+_**Per the passage of KIP-19, a formal Decentralization Working Group (DWG) was established as of Q2 2022. Made up of representatives from every level of DAO participation, from Core Team to community members, this group**_ [_**delivered a report on best practices and common antipatterns in decentraized governance**_](https://forum.klimadao.finance/d/206-rfc-decentralization-working-group-interim-report)_**, as well as a set of**_ [_**specific recommendations for KlimaDAO's decentralization roadmap**_](https://docs.google.com/document/d/e/2PACX-1vQCTZgBCOvT2Xc3f53bIagJO1OQr57mDTZHubJAjWxkmo29tUAOjH4BpE86Nq204Uo4YMxBpzZySmxi/pub) _**in March 2023. These recommendations led to many KIPs including**_ [_**KIP-40**_ ](../)_**and**_ [_**KIP-53: Klima Foundation**_](https://forum.klimadao.finance/d/290-kip-53-klima-foundation)_**.**_
 
 ## Future Vision for Decentralized Governance
 
 Decentralization is a spectrum rather than a binary. Few, if any, DAOs begin fully decentralized, and KlimaDAO is no exception. Decentralization is a journey, an ideal that DAOs must strive toward. KlimaDAO has made great progress on this journey, but it is still early days.&#x20;
 
-One potential issue with limiting KIP publication to the Core team and DAO departments is that the voting process can turn into a “rubber stamp” of changes planned centrally. Over time, our goal is to decentralize as many governance functions as possible, to minimize any dictatorial power exerted by the DAO contributors or Core Team and ensure that votes are meaningful.&#x20;
+One potential issue with limiting KIP publication to the Protocol team and DAO contributors is that the voting process can turn into a “rubber stamp” of changes planned centrally. Over time, our goal is to decentralize as many governance functions as possible, to minimize any dictatorial power exerted by the DAO contributors or Protocol Team and ensure that votes are meaningful.&#x20;
 
-However, not all governance functions are amenable to the same systems - for instance, one-to-one token voting can be gamed via bribes or exploited by whales to benefit themselves at the expense of the protocol. Likewise, opening up publication of KIPs on Snapshot to any holder of KLIMA could turn Snapshot into a sprawling mess of poorly structured proposals.&#x20;
+However, not all governance functions are amenable to the same systems - for instance, one-to-one token voting can be gamed via bribes or exploited by whales to benefit themselves at the expense of the protocol thus the trial established in KIP-40. Likewise, opening up publication of KIPs on Snapshot to any holder of KLIMA could turn Snapshot into a sprawling mess of poorly structured proposals.&#x20;
 
 As we work to decentralize more aspects of the protocol, we will research best practices and seek community input on the optimal governance system for each function.&#x20;
 
 A potential solution to responsibly decentralize KIP publication rights is a "stewardship" model, where representatives are elected by token holders to a committee that has publication rights to Snapshot, controlled by a dedicated multisig that requires some level of consensus among the elected representatives before the proposal is published.
 
 One example of a governance function that we already plan to decentralize (eventually) is the reward rate parameter that contributes to setting the staking [AKR](../references/glossary.md#akr). At this time, the Policy team actively manages the reward rate and proposes individual changes via KIPs within a framework laid out in KIP-3. Once the protocol matures and the AKR stabilizes at a more sustainable level, we can turn control over the reward rate over to an on-chain “gauge” that the community votes to change, with changes automatically implemented via a smart contract.
-
-_**Per the passage of KIP-19, a formal Decentralization Working Group (DWG) has been established as of Q2 2022. Made up of representatives from every level of DAO participation, from Protocol Team to community members, this group will deliver a report on best practices and common antipatterns in decentraized governance, as well as a set of specific recommendations for KlimaDAO's decentralization roadmap. After discussion and review by the community, this roadmap would be implemented by future KIPs when and as appropriate.**_
 
 ## Further Reading
 

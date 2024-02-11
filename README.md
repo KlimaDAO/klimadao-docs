@@ -6,7 +6,9 @@ description: >-
 
 # Welcome to KlimaDAO
 
-KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance.&#x20;
+KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance.
+
+KlimaDAO and its partners in the Klima ecosystem continue to foster the adoption of a new category of real world assets (RWA) on the blockchain: environmental assets like carbon credits.
 
 KlimaDAO provides public goods and common-pool resources to drive an equitable, sustainable, and digitally-enabled economy.
 
