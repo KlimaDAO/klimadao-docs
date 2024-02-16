@@ -1,6 +1,6 @@
 # Deployment Addresses
 
-See [this constants file](https://github.com/KlimaDAO/klimadao/blob/441bb1931a937d263829ca831fa157c652330aea/lib/constants/index.ts#L24) in our public frontend repository for a complete listing of the testnet contract addresses.
+See [this constants file](https://github.com/KlimaDAO/klimadao/blob/main/lib/constants/index.ts) in our public frontend repository for a complete listing of the testnet contract addresses.
 
 {% tabs %}
 {% tab title="Polygon Mainnet" %}

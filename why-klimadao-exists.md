@@ -1,6 +1,6 @@
 # Why KlimaDAO Exists
 
-## The Problem <a href="#744d" id="744d"></a>
+## The Problem <a href="#id-744d" id="id-744d"></a>
 
 In our market economy, the invisible hand works to create prosperity and individual self-interest prevails. The freedom to produce and consume as we see fit generates value for the economy; value that allows the whole of society to prosper.
 
@@ -20,7 +20,7 @@ Carbon dioxide is a greenhouse gas that inhibits our planet’s ability to let h
 
 What we truly value, is not being valued by the market.
 
-## **The solution** <a href="#10f8" id="10f8"></a>
+## **The solution** <a href="#id-10f8" id="id-10f8"></a>
 
 Climate change _is_ the number one issue of our generation.
 
@@ -45,8 +45,8 @@ KlimaDAO infrastructure prioritises accessibility and transparency across the va
 * Project developers can access the infrastructure to immediately find counterparties for their carbon credits.
 * Those looking to acquire carbon credits can do so efficiently and securely using Web3 tools.
 * To claim the environmental benefit of any carbon credits, KlimaDAO’s retirement infrastructure enables this to happen with no reliance on intermediaries.
-* Anyone who holds tokens can participate directly in the governance of the system.&#x20;
+* Anyone who holds KLIMA tokens can participate directly in the governance of the system.&#x20;
 
 The system is built on a public blockchain and is fully transparent, for the first time creating a level playing field across the market. The permissionless and interoperable nature of public blockchains enables greater innovation and lower transaction costs across the market.
 
-Ultimately, the KlimaDAO protocol aims to reorient the carbon markets to be more equitable, and ensure that they prioritize the climate. To achieve this, an economy is required, an economy built on top of open, transparent and public infrastructure.
+Ultimately, the KlimaDAO protocol aims to reorient the carbon markets to be more equitable, and ensure that they prioritize the climate. To achieve this, an economy is required, an economy or ecosystem built on top of open, transparent and public infrastructure.

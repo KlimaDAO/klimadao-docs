@@ -1,15 +1,14 @@
 # Table of contents
 
 * [Welcome to KlimaDAO](README.md)
+* [What is KlimaDAO?](what-is-klimadao.md)
 * [Why KlimaDAO Exists](why-klimadao-exists.md)
-* [FAQ](faq.md)
-* [Ecosystem](ecosystem.md)
 
-## Understanding Carbon <a href="#blogs" id="blogs"></a>
+## 🌍 Ecosystem
 
-* [About Verified Carbon Credits](blogs/about-carbon-offsets.md)
-* [FAQ Carbon Markets](blogs/carbon-faq.md)
-* [The KLIMA token's role in the Digital Carbon Market](https://www.klimadao.finance/blog/what-is-KLIMA-tokens-role-in-onchain-carbon-market)
+* [Digital Carbon](ecosystem/digital-carbon.md)
+* [Carbon Pools](ecosystem/carbon-pools.md)
+* [The Role of KlimaDAO](ecosystem/the-role-of-klimadao.md)
 
 ## ⚙ Tokenomics and Mechanisms
 
@@ -54,9 +53,12 @@
 
 ## 📚 References
 
+* [FAQ](references/faq.md)
 * [Glossary](references/glossary.md)
 * [Links](references/links.md)
 * [Translations](references/translations.md)
+* [FAQ Carbon Markets](references/carbon-faq.md)
+* [About Verified Carbon Credits](references/about-carbon-offsets.md)
 * [KlimaDAO, One Year On](https://www.klimadao.finance/blog/klimadao-one-year-on)
 
 ## 🙋♀ Get Involved

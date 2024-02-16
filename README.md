@@ -8,7 +8,7 @@ description: >-
 
 KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance.
 
-KlimaDAO and its partners in the Klima ecosystem continue to foster the adoption of a new category of real world assets (RWA) on the blockchain: environmental assets like carbon credits.
+KlimaDAO and its partners in the Klima ecosystem continue to foster the adoption of a new category of real world assets (RWA) on the blockchain: environmental assets like digital carbon credits. KLIMA is the entry point to the Digital Carbon Market.
 
 KlimaDAO provides public goods and common-pool resources to drive an equitable, sustainable, and digitally-enabled economy.
 
@@ -22,8 +22,8 @@ KlimaDAO provides public goods and common-pool resources to drive an equitable, 
 💬 [Discord](https://discord.gg/klimadao) \
 📺 [YouTube](https://www.youtube.com/@KlimaDAOfinance)
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
+{% content-ref url="references/faq.md" %}
+[faq.md](references/faq.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao/governance-framework.md" %}
