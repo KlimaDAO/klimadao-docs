@@ -18,7 +18,7 @@ Bond Control Variable, is the scaling factor at which bond prices change. A high
 
 ## **BCT**
 
-BCT (Base Carbon Tonne) is a Toucan Protocol carbon pool, which accepts any TCO2, independent of project type (e.g. forestry carbon offsets, renewable energy carbon offsets or methane capture offsets). At this time, the only requirements for TCO2s to be eligible for deposit into the BCT pool are: the TCO2 is verified by Verra, and has vintage later than 2008 (there is also one [blacklisted methodology](https://docs.toucan.earth/protocol/bridge/carbon-bridge/blocklist)).
+BCT (Base Carbon Tonne) is a carbon pool governed by KlimaDAO, which accepts any TCO2, independent of project type (e.g. forestry carbon offsets, renewable energy carbon offsets or methane capture offsets). BCT was developed for the launch of KlimaDAO, and as of [KIP-57](https://snapshot.org/#/klimadao.eth/proposal/0xcef69824ff641a9a0951e6de77e2eda724efb335372e98f72e2f7d40fc3fb01b) is managed and owned by KlimaDAO. At this time, the only requirements for TCO2s to be eligible for deposit into the BCT pool are: the TCO2 is verified by Verra, and has vintage later than 2008 (there is also one [blacklisted methodology](https://docs.toucan.earth/protocol/bridge/carbon-bridge/blocklist)).
 
 ## Bonding
 
