@@ -2,30 +2,28 @@
 
 ## Klima is protocol.
 
-Klima is a [DeFi](https://ethereum.org/defi) protocol composed of multiple [smart contracts](https://ethereum.org/smart-contracts) on the Polygon PoS public blockchain. These smart contracts are designed to work together to form a larger protocol with the aim of aligning each stakeholder's incentives toward growing the digital carbon market (DCM) and accelerating climate financing.
+Klima is a [DeFi](https://ethereum.org/defi) protocol composed of multiple [smart contracts](https://ethereum.org/smart-contracts) on the Polygon PoS public blockchain. These smart contracts are designed to work together to form a larger protocol with the aim of growing environmental commodity markets on-chain, as a means to efficiently and transparently accelerate climate financing at a global scale.
 
-The Klima protocol issues the $KLIMA token which is utilized in many ways in the protocol to incentivize activity and by KLIMA token holders to vote and govern the protocol and its treasury.
+The Klima protocol issues the $KLIMA token which is utilized by the protocol and its stakeholders to align and incentivize treasury and market development activities.
 
 ## KLIMA is a token.
 
-$KLIMA is an ERC-20 token deployed on the Polygon PoS public blockchain. $KLIMA is the entry point to the Digital Carbon Market. Every $KLIMA token is backed by at least one carbon tonne in the KlimaDAO treasury. A new KLIMA token can only be minted by putting a tonne of digital carbon in the KlimaDAO treasury.
+$KLIMA is KlimaDAO's native token; an ERC-20 token also deployed on Polygon. Every $KLIMA token is backed by at least one carbon tonne in the KlimaDAO treasury. A new $KLIMA token can only be minted by locking a tonne of digital carbon in the KlimaDAO treasury.
 
-KLIMA token serves multiple purposes:&#x20;
+$KLIMA token serves as the gateway to the on-chain environmental markets, and serves multiple purposes for the DAO and its stakeholders:&#x20;
 
-* KLIMA provides the liquidity for the Digital Carbon Market via protocol owned liquidity.
-* KLIMA can be staked to hedge against ecosystem inflation.
-* KLIMA is the primary mechanism for the treasury to acquire digital carbon (referred to as “reserve assets”) and liquidity (referred to as “assets”) through bonding.
-* KLIMA can be used to redeem and retire digital carbon via the retirement aggregator and retirement bonds.
+* $KLIMA provides the liquidity for on-chain markets via protocol owned liquidity.
+* $KLIMA can be staked to hedge against ecosystem inflation.
+* $KLIMA is the primary mechanism for the treasury to acquire digital carbon (referred to as “reserve assets”) and liquidity (referred to as “assets”).
+* $KLIMA can be used to redeem and retire digital carbon via the retirement aggregator and [retirement bonds.](#user-content-fn-1)[^1]
 
-## KlimaDAO is a DAO.
+## Klima is a DAO.
 
-KlimaDAO is a Decentralized Autonomous Organization (DAO): a social coordination layer, where the success of its mission is determined by how you and other participants affect it and get involved. Its unique incentive system and its [governance process](https://klimadao.finance/governance) exist to drive effective participation and engagement, priming KlimaDAO to solve precisely the type of coordination failure that has compromised our planet’s climate and ecosystems.
+KlimaDAO is a Decentralized Autonomous Organization (DAO): a social coordination layer, where the success of its mission is determined by how you and other participants affect it and get involved. Its treasury, liquidity and smart contracts are controlled by its token holders and contributors. It is underpinned by its [governance process](https://klimadao.finance/governance), which exist to drive effective participation and engagement, priming KlimaDAO to solve precisely the type of coordination failure that has compromised our planet’s climate and ecosystems.
 
-KlimaDAO governs the protocol and its treasury, seeds liquidity pools, and enables layers of technology infrastructure to route through a flourishing ecosystem.
+### KlimaDAO is built for the market <a href="#viewer-r8op" id="viewer-r8op"></a>
 
-### Built for you – who uses KlimaDAO, and how you can leverage it to drive impact <a href="#viewer-r8op" id="viewer-r8op"></a>
-
-Addressing coordination failure means bringing together diverse actors and enabling them to fulfill their objectives. Since launching in 2021, KlimaDAO has built a wealth of resources and tooling designed to enable users to get involved and drive impact.
+Addressing coordination failure means bringing together diverse actors and enabling them to fulfil their objectives by enabling them to leverage KlimaDAO's technology and its treasury. Since launching in 2021, KlimaDAO has developed liquidity pools containing tens of millions of carbon credits, built infrastructure that makes accessing this liquidity, and developed a wealth of resources and tooling designed to enable users to participate in its mission.
 
 <figure><img src="https://static.wixstatic.com/media/5f17af_5fd4c96018cf4fb7b4f4a4fe6e260c35~mv2.png/v1/fill/w_740,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f17af_5fd4c96018cf4fb7b4f4a4fe6e260c35~mv2.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,3 +54,5 @@ KlimaDAO’s tools enable builders to integrate digital carbon into any applicat
 #### Resources
 
 The ever-growing documentation and [Resources hub](https://www.klimadao.finance/resources/) provides you with the content you need, whether you’re looking for expertise and insights, guidance and education, or updates and announcements.
+
+[^1]: 

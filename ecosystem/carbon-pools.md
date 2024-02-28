@@ -2,7 +2,7 @@
 
 ## What is a Carbon Pool?
 
-Different project-specific tokenized carbon tonnes like `TCO2` or `C3T` tokens can represent carbon credits from different projects, e.g. a forestry project in Brazil or a soil carbon project from the US. However, creating an on-chain market for carbon requires standardisation. This is the role of the on-chain carbon pools.&#x20;
+The carbon markets are incredibly diverse, with thousands of projects from across different jurisdictions, methodologies and vintages. Project-specific tokenized carbon tonnes such as `TCO2` or `C3T` tokens can functionally represent any of these carbon credits. Standardizing these markets can enable the development of liquidity and more efficient markets, and this is the role of on-chain carbon pools.&#x20;
 
 Carbon Pools bundle multiple project-specific tokenized carbon tonnes into more liquid carbon index tokens, enabling price discovery for different classes of carbon assets.&#x20;
 

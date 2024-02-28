@@ -10,7 +10,7 @@
 * [Carbon Pools](ecosystem/carbon-pools.md)
 * [The Role of KlimaDAO](ecosystem/the-role-of-klimadao.md)
 
-## ⚙ Tokenomics and Mechanisms
+## ⚙️ Tokenomics and Mechanisms
 
 * [Primer on KLIMA](tokenomics-and-mechanisms/primer-on-klima.md)
 * [Bonding (1,1)](tokenomics-and-mechanisms/bonding-1-1.md)
@@ -18,7 +18,7 @@
 * [The Importance of POL](tokenomics-and-mechanisms/the-importance-of-pol.md)
 * [Strategies for Defending Backing Value](tokenomics-and-mechanisms/strategies-for-defending-backing-value.md)
 
-## 🛠 Developers
+## 🛠️ Developers
 
 * [Overview](developers/overview.md)
 * [Bug Bounty](developers/bug-bounty.md)
@@ -45,7 +45,7 @@
 * [Integration Examples](developers/integration-examples.md)
 * [Testing](developers/testing.md)
 
-## 🏛 DAO
+## 🏛️ DAO
 
 * [Governance Framework](dao/governance-framework.md)
 * [Organizational Structure](dao/organizational-structure.md)
@@ -61,7 +61,7 @@
 * [About Verified Carbon Credits](references/about-carbon-offsets.md)
 * [KlimaDAO, One Year On](https://www.klimadao.finance/blog/klimadao-one-year-on)
 
-## 🙋♀ Get Involved
+## 🙋‍♀️ Get Involved
 
 ***
 

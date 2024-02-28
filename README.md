@@ -1,16 +1,18 @@
 ---
 description: >-
   Developer guides, protocol mechanics, FAQ, and everything else you need to
-  know to be an expert on KlimaDAO
+  know to be an expert on KlimaDAO.
 ---
 
 # Welcome to KlimaDAO
 
 KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance.
 
-KlimaDAO and its partners in the Klima ecosystem continue to foster the adoption of a new category of real world assets (RWA) on the blockchain: environmental assets like digital carbon credits. KLIMA is the entry point to the Digital Carbon Market.
+KlimaDAO and its partners in the Klima ecosystem continue to foster the adoption of a new category of real world assets (RWA) on the blockchain: environmental assets like carbon credits.&#x20;
 
 KlimaDAO provides public goods and common-pool resources to drive an equitable, sustainable, and digitally-enabled economy.
+
+KlimaDAO is the entry point to the environmental asset markets hosted on the blockchain.
 
 💻 [Website](https://klimadao.finance/)\
 🌲 [App](https://app.klimadao.finance/)\
