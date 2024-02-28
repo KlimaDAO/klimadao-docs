@@ -21,6 +21,8 @@ Carbon Pools provide a number of benefits to the digital carbon market, enhancin
 
 ## Klima Carbon Pools
 
+[Explore data related to the BCT Pool on Klima Data](https://data.klimadao.finance/token-details?tab=toucan)
+
 ### BCT
 
 [View on Polygonscan](https://polygonscan.com/token/0x2f800db0fdb5223b3c3f354886d907a671414a7f)
@@ -31,7 +33,7 @@ Base Carbon Tonne (BCT) BCT is a carbon pool governed by KlimaDAO, which accepts
 
 ## Toucan Carbon Pools
 
-[Explore data related to BCT and NCT Pools on Klima Data](https://data.klimadao.finance/token-details?tab=toucan)
+[Explore data related to the NCT Pool on Klima Data](https://data.klimadao.finance/token-details?tab=toucan)
 
 Toucan Carbon Pools accept [TCO2 tokens](https://docs.klimadao.finance/ecosystem/digital-carbon#toucan) and issue their respective ERC-20 pool tokens.
 
