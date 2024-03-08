@@ -17,17 +17,7 @@ The end goal for the KLIMA token is to have a stable value dictated by the marke
 
 As such, [KIP-8](https://forum.klimadao.finance/d/12-kip-8-introduce-klimausdc-bonds) established KLIMA as the key liquidity pair with which the treasury pairs each carbon credit pool for which it provides [POL](the-importance-of-pol.md). Through this mechanism, the KLIMA price is coupled to the price of each carbon credit pool.
 
-## Initial Supply
-
-**Our initial goal is not to find a stable carbon price.** It is to provide an intuitive way for Web3 users to engage with the carbon markets, vote on governance proposals that shape the Digital Carbon Market, and be rewarded for participation in the protocol. Through policy and voting, the protocol will be tuned to track developing trends in carbon markets over time.&#x20;
-
-In the early days, the main tradeoff is volatility versus stability and consistency. With volatility comes growth; this is what drives the protocol early on. Towards the middle of the century, we anticipate more stability as KLIMA approaches equilibrium with supply and demand in the carbon markets.&#x20;
-
-At protocol launch, the initial supply was \~251k KLIMA.&#x20;
-
-* \~57k came from the IDO
-* 133k came from the LBP
-* \~81k came from the alchemist reward program. &#x20;
+##
 
 ## Emission Mechanisms  <a href="#docs-internal-guid-f3fe644f-7fff-70f7-8297-63e971faf518" id="docs-internal-guid-f3fe644f-7fff-70f7-8297-63e971faf518"></a>
 
@@ -58,14 +48,6 @@ KlimaDAO distributed [pKLIMA](https://klimadao.medium.com/?p=6bf78981d1a) to ind
 Cumulatively, all of the stakeholder groups can never own more than 15.8% of total KLIMA supply.&#x20;
 
 pKLIMA is not the same as KLIMA, aKLIMA or alKLIMA. KLIMA, aKLIMA, and alKLIMA are all backed by 1 BCT. In order to mint any of these tokens, 1 BCT must be locked in the treasury. There are no underlying BCTs locked in the treasury to underpin the distributed pKLIMA supply. To redeem pKLIMA, holders will be responsible for delivering BCTs to the treasury themselves, 1 BCT for each claimed pKLIMA. By limiting pKLIMA to a % supply share and requiring holders to deliver BCTs to the treasury themselves, pKLIMA ensures that stakeholders, partners, core-members, and community contributors are all focused on the same goal: growing our carbon-backed treasury for long-term success.
-
-#### Post-Launch Excess pKLIMA Redemption
-
-Until the launch of the wsKLIMA token several weeks after launch, there was a minor implementation issue in the pKLIMA contract that allowed for pKLIMA holders to redeem pKLIMA even though they had a greater % supply share than should be allowed. The original contract could not account for the fact that pKLIMA holders may have staked and earned rebase rewards on previously claimed tokens until the wsKLIMA contract was deployed, providing a way to calculate the index-adjusted value of KLIMA.&#x20;
-
-The fix was deployed on November 24, 2021 and will gradually automatically correct the issue by preventing further pKLIMA redemption until supply grows sufficiently to bring all pKLIMA allocations in line with vesting limits.&#x20;
-
-![](https://lh5.googleusercontent.com/ZyuXKRQB9JwJR8VWhgQBV-vpOUdIPkRWWcvQkh52phnEjcIlFRPhIpb9v6ykQakgLGeQ5Z16a\_l33DZ3dJRnacbxJlvAzbsEMV0G2Ev3MtbtA-l3FlKwtuVsqi7x5dUx9YM1vTTf)
 
 ## Maximum Supply? <a href="#docs-internal-guid-27aa7fcb-7fff-06d7-6edc-84d64f3ade5a" id="docs-internal-guid-27aa7fcb-7fff-06d7-6edc-84d64f3ade5a"></a>
 

@@ -15,6 +15,8 @@
 * [Primer on KLIMA](tokenomics-and-mechanisms/primer-on-klima.md)
 * [Bonding (1,1)](tokenomics-and-mechanisms/bonding-1-1.md)
 * [Staking (🌳,🌳)](tokenomics-and-mechanisms/staking.md)
+* [Retirement Aggregator](tokenomics-and-mechanisms/retirement-aggregator.md)
+* [Retirement Bonds](tokenomics-and-mechanisms/retirement-bonds.md)
 * [The Importance of POL](tokenomics-and-mechanisms/the-importance-of-pol.md)
 * [Strategies for Defending Backing Value](tokenomics-and-mechanisms/strategies-for-defending-backing-value.md)
 
@@ -54,6 +56,7 @@
 ## 📚 References
 
 * [FAQ](references/faq.md)
+* [History](references/history.md)
 * [Glossary](references/glossary.md)
 * [Links](references/links.md)
 * [Translations](references/translations.md)
