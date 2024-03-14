@@ -1,6 +1,6 @@
 # Staking (🌳,🌳)
 
-Staking is the primary reward distribution mechanism of the protocol. It is intended to be the primary mechanism of value accrual for the majority of users.&#x20;
+Staking is the primary anti-dilution measure mechanism of the protocol. During times where the protocol absorbs carbon tokens to mint new KLIMA (i.e. supply increases), existing holders are diluted against the growth in supply. By distributing KLIMA to those who ‘stake’, that dilution is minimized. The amount minted and distributed is controlled by a variable named the reward rate, which is the percentage of supply that is rebased on an eight-hour cadence.
 
 Whenever the protocol has an excess of reserves per token (i.e when the CC of the treasury is higher than the assets needed to back KLIMA), the protocol will mint and distribute tokens to the stakers. The amount minted and distributed is controlled by a variable named the reward rate. This is the % of supply that is rebased. This massively slows down how fast the protocol expands supply, as doing so is detrimental to the health (rapid expansion without backing causes a price collapse).
 

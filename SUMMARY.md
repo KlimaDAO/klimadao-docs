@@ -12,6 +12,7 @@
 
 ## ⚙️ Tokenomics and Mechanisms
 
+* [Green Ratio](tokenomics-and-mechanisms/green-ratio.md)
 * [Primer on KLIMA](tokenomics-and-mechanisms/primer-on-klima.md)
 * [Bonding (1,1)](tokenomics-and-mechanisms/bonding-1-1.md)
 * [Staking (🌳,🌳)](tokenomics-and-mechanisms/staking.md)

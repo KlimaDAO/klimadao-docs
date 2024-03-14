@@ -60,7 +60,7 @@ Carbon bridges serve as a vital link connecting traditional carbon registries wi
 #### Toucan
 
 [Website](https://toucan.earth)\
-Toucan carbon tokens (TCO2) is the general term for fungible tokenized carbon credits bridged via Toucan. When you fractionalize a BatchNFT received after bridging, the resulting TCO2 ERC20 token will have TCO2- as a prefix, followed by an information-rich name that includes the registry of origin, the project, the vintage, and so on. More information on the tokenization process can be found in the [Toucan docs](https://docs.toucan.earth/protocol/bridge/tco2-toucan-carbon-tokens).
+Toucan carbon tokens (TCO2) is the general term for fungible tokenized carbon credits bridged via Toucan. When you fractionalize a BatchNFT received after bridging, the resulting TCO2 ERC20 token will have TCO2- as a prefix, followed by an information-rich name that includes the registry of origin, the project, the vintage, and so on. More information on the tokenization process can be found in the [Toucan docs](https://web.archive.org/web/20220524022459/https://docs.toucan.earth/protocol/bridge/carbon-bridge).
 
 #### C3
 
