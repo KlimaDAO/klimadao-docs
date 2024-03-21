@@ -2,10 +2,9 @@
 
 The role of KlimaDAO is multi-facted. **KlimaDAO...**
 
-### Acquires digital carbon through bonds
+### Manages $KLIMA
 
-* KlimaDAO purchases tokenized carbon credits through innovative bond mechanisms, directly funding projects that remove CO2 from the atmosphere.
-* This process drives demand for high-quality carbon offsets, incentivizing project development and contributing to stability in the market.
+* KlimaDAO designed $KLIMA: a utility token, central to providing liquidity in the carbon market. It plays a pivotal role in the Carbon Market (CM) by acting as a means of exchange and index of carbon projects.
 
 ### **Funds new Carbon Projects**
 

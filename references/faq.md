@@ -60,6 +60,6 @@ KlimaDAO is on a path of progressive decentralization - see our [Governance Fram
 
 ## Is KLIMA backed?
 
-We say, "KLIMA is backed by carbon credits" because [each KLIMA token has an Intrinsic Value (IV) of 1 BCT](../tokenomics-and-mechanisms/primer-on-klima.md) - which means the treasury must have at least 1 BCT held in reserves in order to mint 1 KLIMA.  In addition, the treasury typically contains excess reserves, comprising the [Carbon Custodied (CC)](glossary.md#cc) above 1 BCT which will eventually be [paid out to stakers of KLIMA in the form of rebase rewards](../tokenomics-and-mechanisms/staking.md).&#x20;
+We say, "KLIMA is backed by carbon credits" because [each KLIMA token has an Intrinsic Value (IV) of 1 BCT](../economics/operational-mechanics/) - which means the treasury must have at least 1 BCT held in reserves in order to mint 1 KLIMA.  In addition, the treasury typically contains excess reserves, comprising the [Carbon Custodied (CC)](glossary.md#cc) above 1 BCT which will eventually be [paid out to stakers of KLIMA in the form of rebase rewards](../economics/purpose/).&#x20;
 
 Continue reading about KlimaDAO's [Strategies for Defending Backing Value](https://docs.klimadao.finance/tokenomics-and-mechanisms/strategies-for-defending-backing-value).

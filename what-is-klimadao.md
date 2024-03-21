@@ -15,7 +15,7 @@ $KLIMA token serves as the gateway to the on-chain environmental markets, and se
 * $KLIMA provides the liquidity for on-chain markets via protocol owned liquidity.
 * $KLIMA can be staked to hedge against ecosystem inflation.
 * $KLIMA is the primary mechanism for the treasury to acquire digital carbon (referred to as “reserve assets”) and liquidity (referred to as “assets”).
-* $KLIMA can be used to redeem and retire digital carbon via the retirement aggregator and [retirement bonds.](#user-content-fn-1)[^1]
+* $KLIMA can be used to redeem and retire digital carbon via the [retirement aggregator](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/developers/retirement-aggregator) and [retirement bonds](https://forum.klimadao.finance/d/138-kip-31-introduce-retirement-bonds).
 
 ## Klima is a DAO.
 
@@ -37,7 +37,7 @@ DCM stakeholders can leverage the DAO as a coordination engine. The journey star
 
 #### Infrastructure
 
-Users can leverage KlimaDAO’s native tooling to navigate the DCM and its opportunities. Users can stake their $KLIMA to hedge against ecosystem inflation, acquire $KLIMA at a discount through bonds by supplying digital carbon to the Treasury, retire credits to drive environmental impact, and navigate the DCM using [Klima Data](https://data.klimadao.finance/).
+Users can leverage KlimaDAO’s native tooling to navigate the Carbon Market (CM) and its opportunities. Users can purchase $KLIMA to access environmental assets, hold $KLIMA to offset future emissions, use $KLIMA to retire credits and drive environmental impact, and navigate the DCM using [Klima Data](https://data.klimadao.finance/).
 
 #### Ecosystem
 
@@ -54,5 +54,3 @@ KlimaDAO’s tools enable builders to integrate digital carbon into any applicat
 #### Resources
 
 The ever-growing documentation and [Resources hub](https://www.klimadao.finance/resources/) provides you with the content you need, whether you’re looking for expertise and insights, guidance and education, or updates and announcements.
-
-[^1]: 

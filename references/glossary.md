@@ -24,7 +24,7 @@ BCT (Base Carbon Tonne) is a carbon pool governed by KlimaDAO, which accepts any
 
 Market participants can acquire KLIMA at a discounted rate via the bonding mechanism. The bond contracts require the user to provide some carbon asset (e.g. BCT, MCO2) or KLIMA-paired LP tokens in return for discounted KLIMA over a fixed vesting period.&#x20;
 
-[See this page on Bonding for more details.](../tokenomics-and-mechanisms/bonding-1-1.md)
+[See this page on Bonding for more details.](../economics/dynamics/)
 
 ## CC
 
@@ -134,7 +134,7 @@ Sushiswap Liquidity Provider, is the token received when providing liquidity on 
 
 Market participants can deposit their KLIMA tokens in the staking contract to receive additional KLIMA as reward in return. These rewards are distributed via rebasing of the staked token (sKLIMA), which can be unstaked at any time to receive an equal amount of KLIMA.
 
-[See the Staking page for more details.](../tokenomics-and-mechanisms/staking.md)
+[See the Staking page for more details.](../economics/purpose/)
 
 ## TCO2
 
