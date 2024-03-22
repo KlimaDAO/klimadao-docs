@@ -4,20 +4,20 @@ $KLIMA is designed as a utility token, central to providing liquidity in the car
 
 This section outlines the operational mechanics, the dynamics, and the purpose of $KLIMA.
 
-[Operational mechanics:](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/operational-mechanics)
+[**Operational mechanics:**](operational-mechanics/)
 
-1. [Intrinsic value](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/operational-mechanics/intrinsic-value)
-2. [Protocol Owned Liquidity (POL)](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/operational-mechanics/protocol-owned-liquidity-pol)
-3. [Fungible Carbon Credits](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/operational-mechanics/fungible-carbon-credits)
+1. [Intrinsic value](operational-mechanics/intrinsic-value.md)
+2. [Protocol Owned Liquidity (POL)](operational-mechanics/protocol-owned-liquidity-pol.md)
+3. [Fungible Carbon Credits](operational-mechanics/fungible-carbon-credits.md)
 
-[Dynamics:](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/dynamics)
+[**Dynamics:**](dynamics/)
 
-1. [Supply Expansion](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/dynamics/supply-expansion)
-2. [Supply Contraction](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/dynamics/supply-contraction)
-3. [Green Ratio](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/dynamics/green-ratio)
+1. [Supply Expansion](dynamics/supply-expansion.md)
+2. [Supply Contraction](dynamics/supply-contraction.md)
+3. [Green Ratio](dynamics/green-ratio.md)
 
-[Purpose:](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/purpose)
+[**Purpose:**](purpose/)
 
-1. [Means of exchange](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/purpose/means-of-exchange)
-2. [Store of value](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/purpose/store-of-value)
-3. [Unit of Account](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/tokenomics-and-mechanisms/purpose/unit-of-account)
+1. [Means of exchange](purpose/means-of-exchange.md)
+2. [Store of value](purpose/store-of-value.md)
+3. [Unit of Account](purpose/unit-of-account.md)

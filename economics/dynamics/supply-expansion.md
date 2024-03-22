@@ -2,7 +2,9 @@
 
 The dynamics of KLIMA's supply expansion are designed to ensure the token's resilience and its harmonious growth alongside the Carbon Market (CM). Central to this approach is [KIP-44](https://forum.klimadao.finance/d/264-kip-44-aligning-klima-supply-expansion-with-dcm-supply-growth), the proposal to align the Annual KLIMA Rate (AKR) with the growth rate of the CM, encapsulated by the straightforward equation:&#x20;
 
-&#x20;                                                                     _AKR = CMgrowth_
+$$
+AKR = CMgrowth
+$$
 
 #### The Significance of Supply Expansion
 

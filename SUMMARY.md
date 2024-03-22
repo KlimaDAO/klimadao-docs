@@ -58,7 +58,6 @@
 
 * [Governance Framework](dao/governance-framework.md)
 * [Organizational Structure](dao/organizational-structure.md)
-* [Protocol Team Roles](dao/protocol-team-roles.md)
 
 ## 📚 References
 
@@ -69,7 +68,6 @@
 * [Translations](references/translations.md)
 * [FAQ Carbon Markets](references/carbon-faq.md)
 * [About Verified Carbon Credits](references/about-carbon-offsets.md)
-* [KlimaDAO, One Year On](https://www.klimadao.finance/blog/klimadao-one-year-on)
 
 ## 🙋‍♀️ Get Involved
 

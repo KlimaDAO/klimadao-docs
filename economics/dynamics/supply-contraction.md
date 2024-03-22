@@ -23,7 +23,9 @@ The balance between supply expansion and contraction defines KLIMA's inflationar
 
 The relationship between KLIMA's supply dynamics can be conceptualized as follows:
 
-&#x20;                           _Supply Change Rate=CM Growth Rate−Retirement Bond Rate_
+$$
+Supply Change Rate=CM Growth Rate−Retirement Bond Rate
+$$
 
 Where:
 

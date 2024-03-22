@@ -5,7 +5,9 @@ The intrinsic value (IV) of the KLIMA token is a fundamental operational mechani
 \
 At a minimum,&#x20;
 
-&#x20;                                                                     _KLIMA = BCT_
+$$
+KLIMA = BCT
+$$
 
 **Foundation of Intrinsic Value**
 
