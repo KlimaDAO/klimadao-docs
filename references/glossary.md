@@ -30,7 +30,7 @@ Market participants can acquire KLIMA at a discounted rate via the bonding mecha
 
 Carbon Custodied, the total amount of tokenized carbon offsets held by the treasury to back KLIMA supply. Includes all carbon offset reserves (e.g. naked BCT, MCO2), as well as a marked down portion of KLIMA/carbon liquidity pairs.
 
-This metric was formally referred to as "RFV" or "risk-free value" in the context of the Olympus protocol, whose backing is dollar stablecoins. Since carbon offsets are volatile assets whose price can vary over time, this value is not actually "risk free" in the Klima protocol.&#x20;
+This metric was formally referred to as "RFV" or "risk-free value" in the context of the Olympus protocol, whose backing is dollar stablecoins. Since carbon offsets are volatile assets whose price can vary over time, this value is not actually "risk free" in the KlimaDAO protocol.&#x20;
 
 The carbon is considered "custodied" because, if incoming reserves were to drop to 0 and the protocol simply paid out all remaining staking rewards, CC would be the final supply of KLIMA, backed at IV of 1 tonne of carbon offsets. So, in this endgame scenario, each 1 KLIMA would end up being a claim on 1 tonne of carbon offsets from the treasury - thus CC/KLIMA is the estimated number of carbon offset tonnes that a holder of 1 KLIMA today would have after all staking rewards are paid out if they remain staked until the end.
 
@@ -64,13 +64,13 @@ All KIPs must pass a vote by token holders on Snapshot prior to implementation -
 
 Klima Infinity is a set of products and features built on top of the core protocol, geared toward scaling the traditional [VCM](glossary.md#undefined) by empowering organizations and individuals to quickly source and retire tokenized carbon credits, to become “climate positive”.
 
-## **Klima**
+## **klima**
 
-Climate (in Greek and German).&#x20;
+The word for "climate" (in Greek and German and many other languages).&#x20;
 
 ## **KLIMA**
 
-The primary KlimaDAO token. Each KLIMA is backed by a TCO2 locked in the Klima DAO treasury. KLIMA has an intrinsic value underpinned by the cost of TCO2s. KLIMA is an ERC20 token.  &#x20;
+The primary KlimaDAO token. Each KLIMA is backed by at least one tonne of carbon locked in the KlimaDAO treasury. KLIMA has an intrinsic value underpinned by the value of the carbon reserves. KLIMA is an ERC-20 token originally lauched on the Polygon PoS network.  &#x20;
 
 ## Liquidity Bonds
 
@@ -108,7 +108,7 @@ Protocol Owned Liquidity, is the amount of LP the treasury owns and controls. Th
 
 ## PoR
 
-Proof of Reserve, is the mechanism of strengthening the reserve of Klima DAO treasury via the sales of bonds. Bonders provide liquidity to the treasury, thereby building its reserve. In return for their service, bonders get paid in KLIMA.
+Proof of Reserve, is the mechanism of strengthening the reserve of KlimaDAO treasury via the sales of bonds. Bonders provide liquidity to the treasury, thereby building its reserve. In return for their service, bonders get paid in KLIMA.
 
 ## Reserve Bonds
 
@@ -152,7 +152,7 @@ Treasury Market Value - the current market value in dollars of all assets held i
 
 ## TTC
 
-Treasury Total Carbon - total carbon offset tonnage held by the Klima treasury, including both carbon offset reserves and the full value of the carbon assets in all carbon-paired LP pools (both KLIMA/carbon and stablecoin/carbon pairs).
+Treasury Total Carbon - total carbon offset tonnage held by the KlimaDAO treasury, including both carbon offset reserves and the full value of the carbon assets in all carbon-paired LP pools (both KLIMA/carbon and stablecoin/carbon pairs).
 
 Note that this value fluctuates up or down as carbon offsets are sold into or bought out of the liquidity pools.
 

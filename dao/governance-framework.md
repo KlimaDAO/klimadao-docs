@@ -1,5 +1,5 @@
 ---
-description: Processes and tooling used to govern the Klima protocol
+description: Processes and tooling used to govern the KlimaDAO protocol
 ---
 
 # Governance Framework
@@ -30,7 +30,7 @@ During office hours (check the events section in the Discord), the Protocol team
 
 [https://forum.klimadao.finance](https://forum.klimadao.finance)
 
-The KlimaDAO Forum is the hub for more formal discussion and debate.  Request for Comment (RFC) periods begin here, where people can make their thoughts heard on the latest Klima Improvement Proposals (KIPs).  An RFC can originate internally, from a community member, or from third parties such as carbon project developers seeking funding or new carbon bridges who wish to integrate into the Klima ecosystem.&#x20;
+The KlimaDAO Forum is the hub for more formal discussion and debate.  Request for Comment (RFC) periods begin here, where people can make their thoughts heard on the latest KlimaDAO Improvement Proposals (KIPs).  An RFC can originate internally, from a community member, or from third parties such as carbon project developers seeking funding or new carbon bridges who wish to integrate into the KlimaDAO ecosystem.&#x20;
 
 After the RFC, if the community is on-board with the proposal, a formal KIP will be drafted by the policy team, which will be posted on the forum with an informal poll - acting as a temperature check to suggest if the proposal may need alterations or further discussion.&#x20;
 
@@ -51,7 +51,7 @@ The Committee's authority is exercised with the sole intention of advancing the 
 
 Therefore, the Guarantee Committee will have the ability to make recommendations to the community regarding carbon financing initiatives – however, it will not have the ability to make decisions on behalf of the community (i.e. a KIP will still be required to ratify financing agreements).
 
-It is anticipated that the Guarantee Committee will at times work with the Klima Review Committee [(defined in KIP-35)](https://snapshot.org/#/klimadao.eth/proposal/0x2cedb818786730e1ecf1a703ccc6ddd1ec3b5d97b3fd05bc178169fe2f094979) to progress or raise concerns around RFCs and KIPs specifically pertaining to climate finance.
+It is anticipated that the Guarantee Committee will at times work with the Klimate Review Committee [(defined in KIP-35)](https://snapshot.org/#/klimadao.eth/proposal/0x2cedb818786730e1ecf1a703ccc6ddd1ec3b5d97b3fd05bc178169fe2f094979) to progress or raise concerns around RFCs and KIPs specifically pertaining to climate finance.
 
 ### Snapshot Voting
 
@@ -89,7 +89,7 @@ In the event that the policy team or Protocol Team wishes to reserve a new power
 
 ## Promises and Perils of Decentralized Governance <a href="#docs-internal-guid-ae4a6fe9-7fff-7aba-b99a-9e0626c1dac9" id="docs-internal-guid-ae4a6fe9-7fff-7aba-b99a-9e0626c1dac9"></a>
 
-It’s in the name, Klima is a _DAO_, so it’s fully decentralized, right?
+It’s in the name, KlimaDAO is a _DAO_, so it’s fully decentralized, right?
 
 Well, while full decentralization is the long-term goal that KlimaDAO will strive towards, launching a new protocol and immediately decentralizing everything is a recipe for disaster. At launch, complex protocols like ours must be able to react swiftly and decisively to changing market conditions in order to ensure long term success, and as such are vulnerable to poor management, fumbled execution and delayed decision-making.
 
