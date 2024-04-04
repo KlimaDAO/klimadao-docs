@@ -59,27 +59,7 @@ It is anticipated that the Guarantee Committee will at times work with the Klima
 
 After passing the informal poll on the forum, official KIPs will be published on Snapshot by the Protocol Team for a formal, on-chain vote by KLIMA token holders.&#x20;
 
-Originally, voting power on Snapshot was determined by the amount of KLIMA owned in a one-to-one ratio. All forms of KLIMA (such as staked and wrapped) are eligible to vote, except if it is deposited into another DeFi platform or smart contract.
-
-#### KIP-40: Trial - Progressing KlimaDAO's Governance Framework
-
-KlimaDAO launched a 6-month governance trial of anti-plutocratic voting measures to increase stakeholder influence and engagement as established in [KIP-40](https://snapshot.org/#/klimadao.eth/proposal/0x1e0ddb862433c186478f8ef930c2c4d74f03f9c5ffed99fcf527479c877ff97d). This trial consisted of an integration of [Gitcoin Passports](https://passport.gitcoin.co/) to increase Sybil Resistance of the Protocol, as well as Snapshot’s [Quadratic Voting](https://www.gitcoin.co/blog/quadratic-voting-a-how-to-guide) feature, to explore solutions that can increase the project’s resilience, levels of decentralization and community ownership. For more information, see the [KIP-40 forum discussion](https://forum.klimadao.finance/d/243-rfc-trial-progressing-klimadaos-governance-framework).
-
-**Gitcoin Passports**: Gitcoin Passports serves as an innovative solution to identify unique individuals without violating privacy. It leverages third-party services to offer verified credentials or "stamps", which are collectively utilized to verify an individual's identity, without revealing personal information.
-
-Integrating Gitcoin Passport into our governance system will provide a robust mechanism for [sybil resistant](https://docs.snapshot.org/space-handbook/sybil-resistance-scam-and-spam-prevention) unique user verification, significantly reducing the risk of vote manipulation. It prevents the same individual from casting multiple votes via different wallets, therefore maintaining a true representation of the individual's voting power.
-
-**At this time, Snapshot is configured to utilize quadratic voting and you must have your Gitcoin Passport configured and stamped with at least 2 of 7 accounts before a Snapshot vote is started.** Users may link or "stamp their passport" with the following accounts:
-
-* Coinbase
-* Discord
-* Facebook
-* Github
-* Google
-* Linkedin
-* Twitter
-
-**At this time, you must have 2 of 7 associated accounts linked to cast your vote in a Snapshot vote.**
+Voting power on Snapshot is determined by the amount of KLIMA owned in a one-to-one ratio. All forms of KLIMA (such as staked and wrapped) are eligible to vote, except if it is deposited into another DeFi platform or smart contract.
 
 Note that not all actions are subject to a KIP vote. These include smaller-scale maintenance changes, such as Bond Control Variable (BCV) adjustments, as well as established protocol functions that require manual action, such as acting as “buyer of last resort” should KLIMA ever trade below 1 BCT.&#x20;
 
