@@ -14,7 +14,7 @@ Unified interface for consuming tokenized carbon credits. Allows the user to pro
 
 ## Bridge-Specific Retirements
 
-Helper contracts for consuming offsets from a specific carbon bridge.
+Helper contracts for consuming credits from a specific carbon bridge or on-chain issuer.
 
 ### C3
 
