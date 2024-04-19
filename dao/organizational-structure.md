@@ -54,8 +54,8 @@ It is anticipated that the Guarantee Committee will at times work with the Klima
 
 ## Organs of the DAO
 
-* Foundation President: ThereisonlyoneDJ
-* Foundation Directors:&#x20;
+* Foundation President
+* Foundation Directors
 * Protocol Team: key contributors most of whom have been working on KlimaDAO since before launch. Establishes strategic vision and provide expert input on carbon markets and DeFi. Guides the DAO's decentralization plan and ensures functional teams are aligned on priorities, collaborate productively, and deliver on their objectives.
 * Bounty Hunter: all applicants to be a DAO contributor automatically become Bounty Hunters. Bounty Hunters have access to the internal DAO bounty board, and are welcome to contribute to small projects and complete bounties without guaranteed compensation\* - until a department has the resources to tap them in as a Bounty Contributor or Internal Contributor.
 * Token Holders: core stakeholders of KlimaDAO, our Klimate community plays a critical role supporting the protocol’s growth and engaging in the governance process via discussion and voting.
