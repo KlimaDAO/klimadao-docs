@@ -68,6 +68,7 @@
 * [Translations](references/translations.md)
 * [FAQ Carbon Markets](references/carbon-faq.md)
 * [About Verified Carbon Credits](references/about-carbon-offsets.md)
+* [Estimating Carbon Emissions](references/estimating-carbon-emissions.md)
 
 ## 🙋‍♀️ Get Involved
 
