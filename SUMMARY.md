@@ -30,6 +30,7 @@
 
 * [Overview](developers/overview.md)
 * [Retirement Aggregator](developers/retirement-aggregator.md)
+* [Automation](developers/automation.md)
 * [Bug Bounty](developers/bug-bounty.md)
 * [Contracts](developers/contracts/README.md)
   * [Bonds](developers/contracts/bonds.md)
