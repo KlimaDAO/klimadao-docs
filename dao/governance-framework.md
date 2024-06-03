@@ -36,8 +36,7 @@ After the RFC, if the community is on-board with the proposal, a formal KIP will
 
 Proposals can also originate directly from the DAO without an RFC, including for:\
 \- major reward rate adjustments\
-\- frameworks for DAO operations such as contributor compensation\
-\- introduction of new bond types not associated with a partnership (for instance, KIP-8 adding KLIMA/USDC LP bonds)
+\- frameworks for DAO operations such as contributor compensation
 
 _**Note: only the policy team can post KIP temperature check votes in the “Proposals” section of the forum, but anyone can open a general discussion topic or post an RFC in the “General” section.**_
 
@@ -60,8 +59,6 @@ It is anticipated that the Guarantee Committee will at times work with the Klima
 After passing the informal poll on the forum, official KIPs will be published on Snapshot by the Protocol Team for a formal, on-chain vote by KLIMA token holders.&#x20;
 
 Voting power on Snapshot is determined by the amount of KLIMA owned in a one-to-one ratio. All forms of KLIMA (such as staked and wrapped) are eligible to vote, except if it is deposited into another DeFi platform or smart contract.
-
-Note that not all actions are subject to a KIP vote. These include smaller-scale maintenance changes, such as Bond Control Variable (BCV) adjustments, as well as established protocol functions that require manual action, such as acting as “buyer of last resort” should KLIMA ever trade below 1 BCT.&#x20;
 
 For comparison, larger and less urgent changes, such as significant reward rate adjustments, or adding new assets to the treasury, will require KIP votes.
 
@@ -86,8 +83,6 @@ As any new protocol with ambitions of decentralization gets off the ground, the 
 ## Initial State
 
 Since the protocol launched, the Core Team has retained access to contracts and wallets behind 3-of-5 Gnosis Safe multisig wallets - meaning at least 3 Core members must agree to approve a transaction out of 5 total signers. With the [adoption of the Klima Foundation](https://forum.klimadao.finance/d/290-kip-53-klima-foundation), these multisigs are now controlled by legally obligated representatives of Klima Foundation.&#x20;
-
-These multisig wallets are used to execute adjustments to policy variables such as bond capacities and reward rate, as well as to distribute funds from the DAO wallet to pay contributors and fund DAO initiatives.
 
 The initial system required a great deal of trust in the Core Team to shepherd the protocol to maturity. Thus, it is important to have a transparent governance process to guide the Core Team’s decisions with ample community input, as well as prepare the community to eventually govern more aspects of the protocol as it is gradually decentralized. Over time, the governance process has continued to mature and promote further decentralization.
 

@@ -12,19 +12,9 @@ _NOTE: AKR was previously called APY._
 
 Annual Percentage Rate, is the annualized reward rate without taking the effect of compounding into account.
 
-## BCV
-
-Bond Control Variable, is the scaling factor at which bond prices change. A higher BCV means a lower discount for bonders and higher inflation by the protocol. A lower BCV means a higher discount for bonders and lower inflation by the protocol.
-
 ## **BCT**
 
 BCT (Base Carbon Tonne) is a carbon pool governed by KlimaDAO, which accepts any TCO2, independent of project type (e.g. forestry carbon offsets, renewable energy carbon offsets or methane capture offsets). BCT was developed for the launch of KlimaDAO, and as of [KIP-57](https://snapshot.org/#/klimadao.eth/proposal/0xcef69824ff641a9a0951e6de77e2eda724efb335372e98f72e2f7d40fc3fb01b) is managed and owned by KlimaDAO. At this time, the only requirements for TCO2s to be eligible for deposit into the BCT pool are: the TCO2 is verified by Verra, and has vintage later than 2008 (there is also one [blacklisted methodology](https://docs.toucan.earth/protocol/bridge/carbon-bridge/blocklist)).
-
-## Bonding
-
-Market participants can acquire KLIMA at a discounted rate via the bonding mechanism. The bond contracts require the user to provide some carbon asset (e.g. BCT, MCO2) or KLIMA-paired LP tokens in return for discounted KLIMA over a fixed vesting period.&#x20;
-
-[See this page on Bonding for more details.](../economics/dynamics/)
 
 ## CC
 
@@ -72,10 +62,6 @@ The word for "climate" (in Greek and German and many other languages).&#x20;
 
 The primary KlimaDAO token. Each KLIMA is backed by at least one tonne of carbon locked in the KlimaDAO treasury. KLIMA has an intrinsic value underpinned by the value of the carbon reserves. KLIMA is an ERC-20 token originally lauched on the Polygon PoS network.  &#x20;
 
-## Liquidity Bonds
-
-Liquidity bonds are LP token bonds. Examples are KLIMA-BCT LP bonds and BCT-USDC LP bonds.
-
 ## MC
 
 Market capitalization - total market value of all KLIMA tokens in existence \
@@ -90,12 +76,6 @@ MCO2 was the first tokenized carbon credit to be listed on major centralised exc
 
 More information is available on the [Moss website](https://mco2token.moss.earth/).
 
-## NBO
-
-NBO (Nature Based Offset) is a pool from the C3 protocol. Accepts all VCS and GS methodologies characterized as NCS, including REDD+, IFM, and those with VCS or GS certification utilizing CDM-based forestry methodologies such as AR-AM0014. Vintage of 2014 onwards.\
-\
-More information is available in the [C3 docs](https://c3-bridge.gitbook.io/c3-documentation/the-basics/carbon-pools).
-
 ## NCT
 
 NCT (Nature-Based Carbon Tonne) is a Toucan Protocol carbon pool, which accepts TCO2 from nature-based methodologies such as avoided deforestation or afforestation. \
@@ -105,14 +85,6 @@ See [this page from Toucan](https://docs.toucan.earth/protocol/pool/pool-parties
 ## POL
 
 Protocol Owned Liquidity, is the amount of LP the treasury owns and controls. The more POL the better for the protocol and its users.
-
-## PoR
-
-Proof of Reserve, is the mechanism of strengthening the reserve of KlimaDAO treasury via the sales of bonds. Bonders provide liquidity to the treasury, thereby building its reserve. In return for their service, bonders get paid in KLIMA.
-
-## Reserve Bonds
-
-Reserve bonds are single asset bonds. They are sometimes referred to as "naked" bonds. Examples are BCT bonds.
 
 ## Reward Rate
 
@@ -128,7 +100,7 @@ Risk Free Value - this term has been deprecated in favor of [Carbon Custodied (C
 
 ## SLP
 
-Sushiswap Liquidity Provider, is the token received when providing liquidity on Sushiswap. For instance LP bonds require SLP tokens of the KLIMA / USDC pair.
+Sushiswap Liquidity Provider, is the token received when providing liquidity on Sushiswap.
 
 ## **Staking**
 
@@ -159,10 +131,6 @@ Note that this value fluctuates up or down as carbon offsets are sold into or bo
 ## TWAP
 
 Time Weighted Average Price, is the average price of an asset over a specified time. TWAPs are used to represent the fair value of an asset as defined by the market.
-
-## UBO
-
-Universal Basic Offset (UBO) is a pool from the C3 protocol. Accepts most VCS and GS methodologies for credits issued from 2014 onwards. There are a number of blacklisted methodologies, including VM0002 due a perceived lack of additionality after 2014. More information is available in the [C3 docs](https://c3-bridge.gitbook.io/c3-documentation/the-basics/carbon-pools).
 
 ## VCU
 

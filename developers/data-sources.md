@@ -14,10 +14,6 @@ description: Subgraphs and other data sources relevant to the KlimaDAO ecosystem
 
 General metrics concerning the KlimaDAO protocol and treasury
 
-#### [Bonds](https://thegraph.com/hosted-service/subgraph/klimadao/klimadao-bonds)
-
-Detailed metrics on bonding activity
-
 #### [Vesting](https://thegraph.com/hosted-service/subgraph/klimadao/klimadao-vesting)
 
 Metrics concerning existing KLIMA token supply locked in another contract, either temporarily or permanently

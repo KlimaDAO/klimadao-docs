@@ -34,8 +34,6 @@ To buy KLIMA, visit [https://www.klimadao.finance/buy](https://www.klimadao.fina
 
 To stake your KLIMA, visit [https://app.klimadao.finance/#/stake](https://app.klimadao.finance/#/stake).
 
-To see the current available bonds, visit [https://app.klimadao.finance/#/bonds](https://app.klimadao.finance/#/bonds).
-
 To explore the carbon marketplace, visit [https://carbonmark.com/projects](https://carbonmark.com/projects).
 
 To buy, sell or retire carbon credits, visit [https;//carbonmark.com](https://carbonmark.com)
@@ -48,7 +46,7 @@ To buy, sell or retire carbon credits, visit [https;//carbonmark.com](https://ca
 
 **Participation in the carbon ecosystem:** At the time of writing BCT, NCT, UBO, NBO and MCO2 are the main forms of tokenized carbon within the KlimaDAO treasury and their flow into the treasury underpins protocol growth.
 
-Digital carbon tokens represent real-world Verified Carbon Units (VCUs) from a registry such as Verra - BCT can be created via the [Toucan Protocol](https://toucan.earth/)’s public bridge while MCO2 is a centrally managed product of [Moss](https://moss.earth/); new MCO2 tonnes are brought on chain using Moss’ private bridge. Bonders can obtain discounted KLIMA tokens over a 5-day vesting period using the bonds mentioned above. Once KLIMA tokens are held, stakers should stake their tokens in reward for more KLIMA tokens based on the [AKR](glossary.md#akr) at each epoch \~7.2 hour intervals.
+Digital carbon tokens represent real-world Verified Carbon Units (VCUs) from a registry such as Verra - BCT can be created via the [Toucan Protocol](https://toucan.earth/)’s public bridge while MCO2 is a centrally managed product of [Moss](https://moss.earth/); new MCO2 tonnes are brought on chain using Moss’ private bridge. Once KLIMA tokens are held, stakers should stake their tokens in reward for more KLIMA tokens based on the [AKR](glossary.md#akr) at each epoch \~7.2 hour intervals.
 
 ## Who created KlimaDAO?
 
