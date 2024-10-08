@@ -16,7 +16,7 @@ Now, with the emergence of the tokenized carbon ecosystem, the end page of the c
 
 ## SushiSwap Green Fee
 
-_Current state:_ [Live in production](https://www.klimadao.finance/blog/klimadao-sushi-fully-automated-carbon-offsetting-green-fee)
+_Current state: deprecated_
 
 Since launch, KlimaDAO's primary DEX has been SushiSwap on Polygon. Given their public governance process, they made an obvious first partner to integrate tokenized carbon credits into the functioning of a DeFi protocol.
 
