@@ -53,6 +53,11 @@
 * [Integration Examples](developers/integration-examples.md)
 * [Testing](developers/testing.md)
 
+## 🔄 Auto Compounder
+
+* [Auto Compounder App Guide (DRAFT)](auto-compounder/auto-compounder-app-guide-draft.md)
+* [Auto Compounder FAQ (DRAFT)](auto-compounder/auto-compounder-faq-draft.md)
+
 ## 🏛️ DAO
 
 * [Governance Framework](dao/governance-framework.md)
