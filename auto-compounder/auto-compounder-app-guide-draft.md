@@ -1,5 +1,9 @@
 # Auto Compounder App Guide (DRAFT)
 
+{% hint style="warning" %}
+NOTE: The `Auto Compounder` application **is** **not currently in general release**. This documentation is **beta/draft and subject to change**. Once the application goes live, this warning message will be removed.&#x20;
+{% endhint %}
+
 The KlimaDAO Auto Compounder manages liquidity pool tokens created on Aerodrome and optimizes them for compound interest effects. This can improve the yield performance of your position over time compared to manual compounding.
 
 Additionally, 1% of your yield will be used to burn existing KLIMA tokens and retire carbon credits owned by KlimaDAO. By providing liquidity for the KlimaDAO ecosystem through the Auto Compounder, you grow your position in a more convenient way, reduce the amount of KLIMA tokens in circulation, and compensate for your personal or organizational carbon footprint automatically.
