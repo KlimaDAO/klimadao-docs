@@ -55,8 +55,8 @@
 
 ## 🔄 Auto Compounder
 
-* [Auto Compounder App Guide (DRAFT)](auto-compounder/auto-compounder-app-guide-draft.md)
-* [Auto Compounder FAQ (DRAFT)](auto-compounder/auto-compounder-faq-draft.md)
+* [Auto Compounder App Guide](auto-compounder/auto-compounder-app-guide.md)
+* [Auto Compounder FAQ](auto-compounder/auto-compounder-faq.md)
 
 ## 🏛️ DAO
 

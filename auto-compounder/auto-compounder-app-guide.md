@@ -1,8 +1,4 @@
-# Auto Compounder App Guide (DRAFT)
-
-{% hint style="warning" %}
-NOTE: The `Auto Compounder` application **is** **not currently in general release**. This documentation is **beta/draft and subject to change**. Once the application goes live, this warning message will be removed.&#x20;
-{% endhint %}
+# Auto Compounder App Guide
 
 The KlimaDAO Auto Compounder manages liquidity pool tokens created on Aerodrome and optimizes them for compound interest effects. This can improve the yield performance of your position over time compared to manual compounding.
 
@@ -12,7 +8,7 @@ Since participating in liquidity pools can be challenging, this guide will provi
 
 ## Prerequisites
 
-The KlimaDAO Auto Compounder is currently only operating on the Base blockchain. Therefore, you will need KLIMA tokens on Base as well as a different token to pair KLIMA with, e.g. WETH, USDC, or other supported tokens. An overview of all supported liquidity pairs can be found at [https://base.klimadao.finance/](https://base.klimadao.finance/).&#x20;
+The KlimaDAO Auto Compounder is currently only operating on the Base blockchain. Therefore, you will need KLIMA tokens on Base as well as a different token to pair KLIMA with, e.g. WETH, USDC, or other supported tokens. An overview of all supported liquidity pairs can be found at [https://base.klimadao.finance/auto-compounder/stake/all](https://base.klimadao.finance/auto-compounder/stake/all).&#x20;
 
 You will also need a small amount of ETH on Base in your wallet to pay for transactions.
 
@@ -20,12 +16,12 @@ You will also need a small amount of ETH on Base in your wallet to pay for trans
 
 This guide uses the KLIMA/WETH pool as an example, but the same steps apply for all other token combinations as well.
 
-* Visit [https://base.klimadao.finance/](https://base.klimadao.finance/) and click the CONNECT button in the top right corner. Choose your wallet and confirm that you want to connect to the app.
+* Visit [https://base.klimadao.finance/auto-compounder/stake/all](https://base.klimadao.finance/auto-compounder/stake/all) and click the CONNECT button in the top right corner. Choose your wallet and confirm that you want to connect to the app.
 * Click the `Stake +` button for the pool you want to deposit your tokens into.&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXedmEc7Lxg4eHiaWUdmhrGhGhNh1W-GEBq_bk-EHwnzC5NRGogH2BwXcF-Nwo8cEU-fApHlpG6UKk9id-DyYk3aRvdcTn9HoMUqBpuCL89SusdK2mz3M7-eTrbMa0BukYmEXNEnRg?key=l05y3lVzz17UAfirUdl0ULVl" alt=""><figcaption></figcaption></figure>
 
-* Once you click Stake +, you should see the Auto Compounder interface as seen on the screenshot below. Before you can deposit your tokens into the pool, you need to create a liquidity pool pair on Aerodrome. To do this, click the Deposit Liquidity button.
+* Once you click Stake +, you should see the Auto Compounder interface.  Unless you already own liquidity pool tokens previously created on Aerodrome, you need to create some now. To do this, click the Deposit Liquidity button.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXehpwjYyFldtsUk5oGhuBBiSBf5x_eLuIb-9n26icepCc5kQKWKKRZnUT_YspitUpFxU7TvCUHoORSWA6SulzotXEPlPX_w9nSLex8Enh8TKS7rTyPKEKKqLI3fhw1P22mrNcOF?key=l05y3lVzz17UAfirUdl0ULVl" alt="" width="375"><figcaption></figcaption></figure>
 

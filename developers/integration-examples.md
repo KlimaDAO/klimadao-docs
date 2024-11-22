@@ -44,7 +44,7 @@ An experiment in minimalistic worldbuilding, the [Rings of Retirement](https://r
 
 Each Ring can be claimed from the current holder by any address that has retired more of the corresponding carbon credit token for that Ring than the current holder. This simple gamified element encourages users to retire carbon credits, with an increasing amount of retirements required each round to participate in the game. This regenerative mechanism contracts with the fixed (or even diminishing) amount of retirements from e.g. a corporation's net-zero pledge.
 
-The Rings provide a concrete example of on-chain carbon game mechanics_,_ that other builders can expand and build upon to incentivize carbon credit retirement or other regenerative activity in their creations.
+The Rings provide a concrete example of on-chain carbon game mechanic&#x73;_,_ that other builders can expand and build upon to incentivize carbon credit retirement or other regenerative activity in their creations.
 
 ## Climate-Positive NFTs: CO2\_Compound
 

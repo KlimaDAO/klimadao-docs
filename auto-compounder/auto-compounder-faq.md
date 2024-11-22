@@ -1,4 +1,4 @@
-# Auto Compounder FAQ (DRAFT)
+# Auto Compounder FAQ
 
 ## Where does the yield come from?
 
@@ -32,6 +32,14 @@ The balance of your staked position includes your staked liquidity pool tokens p
 
 1% of the accrued yield is used to burn existing KLIMA tokens and retire carbon credits owned by KlimaDAO. However, in contrast to manual compounding, all transaction costs for automatic compounding are paid for by KlimaDAO.
 
-## Where can I track how much carbon I have retired automatically?
+## How does the 1% fee to burn KLIMA work?
 
-We are working on a feature to enable users to track how much carbon they have retired. Coming soon!
+When you stake using the Auto Compounder, you will see this message on the form:
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLo0dJZ1nvDXq5IrlakgkTm02O1d6AZJCDa_zRyFPC_8lTOxMeiiU_AE59gt720nsRaAxJ9rVOfl-9P7vFXi0qhoSfnzGYPIXSom2zL_yKc-wVrWKrV1M-z-02TYW0r1VR-pwbmg?key=l05y3lVzz17UAfirUdl0ULVl" alt=""><figcaption></figcaption></figure>
+
+When the yield is compounded every 24 hours, 1% is automatically redirected to a wallet address on [Base](https://basescan.org/tokenholdings?a=0x5933f2448a01Cdf0421f1ce3B66a86977eB99606).
+
+In regular intervals, this yield is used to perform retirements, which are executed on Base and used to retire carbon tokens on Polygon.&#x20;
+
+All of this is performed by KlimaDAO in the background. As a user, you do not need to take any manual action.
