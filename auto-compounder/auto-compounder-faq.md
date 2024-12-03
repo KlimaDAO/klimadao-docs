@@ -43,3 +43,7 @@ When the yield is compounded every 24 hours, 1% is automatically redirected to a
 In regular intervals, this yield is used to perform retirements, which are executed on Base and used to retire carbon tokens on Polygon.&#x20;
 
 All of this is performed by KlimaDAO in the background. As a user, you do not need to take any manual action.
+
+## If I unstake from the Auto Compounder, am I still earning AERO rewards?
+
+If you decide to exit the Auto Compounder, unstake, and do nothing else; you are only earning the trading fees from the pool, not AERO rewards. On the [Aerodrome Dashboard](https://aerodrome.finance/dash?), your unstaked position will show as available for Stake. Stake your deposit again on Aerodrome to start earning AERO rewards; just note that these will not auto compound. See [**What is the advantage of using the Auto Compounder over Aerodrome’s native offering?**](https://docs.klimadao.finance/auto-compounder/auto-compounder-faq#what-is-the-advantage-of-using-the-auto-compounder-over-aerodromes-native-offering) for the benefits of using the KlimaDAO Auto Compounder.
