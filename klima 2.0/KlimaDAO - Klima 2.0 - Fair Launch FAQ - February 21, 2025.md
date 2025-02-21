@@ -42,7 +42,7 @@ Current projections are **Q3 2025**.
 
 ## Can I add more $KLIMA to my stake over time?  
 
-**Yes!**  
+Yes!  
 
 ## How are points calculated exactly?  
 
@@ -55,7 +55,7 @@ where **Entry Bonus** is:
 - **1.5x** for **Week 2** participants  
 - **1.0x** for all subsequent participants  
 
-### Example Growth of a 1,000 KLIMA Stake  
+To illustrate the compounding effect, consider a 1,000 KLIMA stake:  
 
 | Time Period  | Points (Week 1 Entry) |
 |-------------|----------------------|
@@ -75,7 +75,7 @@ where:
 - **Time-Based Burn** = `min((Days Staked / 365) × 75%, 75%)`  
 - **Maximum Total Burn = 100%**  
 
-### Example Burn Scenarios  
+Example Burn Scenarios  
 
 | Exit Time  | Base Burn | Time-Based Burn | Total Burn |
 |------------|-----------|-----------------|------------|
@@ -93,7 +93,7 @@ There is no minimum stake amount.
 
 ## Will there be a UI for tracking points/allocations?  
 
-**Yes.**  
+Yes.
 
 ## What are the new tokens in Klima 2.0?  
 
