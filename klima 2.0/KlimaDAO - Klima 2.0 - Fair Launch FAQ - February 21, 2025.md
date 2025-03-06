@@ -131,7 +131,7 @@ The transition will be executed **incrementally**:
 2. **Migration of existing carbon assets**.  
 3. **Introduction of new market mechanisms**.  
 4. **Immediate decentralization of governance post 2.0 deployment**.  
-5. **Gradual rollout of market carbon integrations**.  
+5. **Gradual rollout of carbon market integrations**.  
 
 ## What is the end-game of Klima 2.0?  
 
