@@ -4,6 +4,10 @@
 * [What is KlimaDAO?](what-is-klimadao.md)
 * [Why KlimaDAO Exists](why-klimadao-exists.md)
 
+## Carbon Ecosystem
+
+* [Use Cases and Value Proposition](carbon-ecosystem/use-cases-and-value-proposition.md)
+
 ## 🌍 Ecosystem
 
 * [Digital Carbon](ecosystem/digital-carbon.md)
@@ -75,8 +79,6 @@
 * [Estimating Carbon Emissions](references/estimating-carbon-emissions.md)
 
 ## 🙋‍♀️ Get Involved
-
-***
 
 * [Community Discord](https://discord.gg/klimadao)
 * [Governance Forum](https://forum.klimadao.finance/)
