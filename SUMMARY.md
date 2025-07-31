@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome to KlimaDAO](README.md)
+* [Welcome to Klima Protocol](README.md)
 * [What is KlimaDAO?](what-is-klimadao.md)
-* [Why KlimaDAO Exists](why-klimadao-exists.md)
+* [Why Klima Protocol Exists](why-klimadao-exists.md)
 
 ## Carbon Ecosystem
 

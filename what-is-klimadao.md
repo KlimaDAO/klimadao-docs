@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is KlimaDAO?
 
 ## Klima is protocol.
@@ -15,7 +19,7 @@ $KLIMA token serves as the gateway to the on-chain environmental markets, and se
 * $KLIMA provides the liquidity for on-chain markets via protocol owned liquidity.
 * $KLIMA can be staked to hedge against ecosystem inflation.
 * $KLIMA is the primary mechanism for the treasury to acquire digital carbon (referred to as “reserve assets”) and liquidity (referred to as “assets”).
-* $KLIMA can be used to redeem and retire digital carbon via the [retirement aggregator](https://app.gitbook.com/o/-M\_bmp-\_zWliWIWoS5D7/s/-M\_bmxz70gvEJ0PLIHFc/\~/changes/244/developers/retirement-aggregator) and [retirement bonds](https://forum.klimadao.finance/d/138-kip-31-introduce-retirement-bonds).
+* $KLIMA can be used to redeem and retire digital carbon via the [retirement aggregator](https://app.gitbook.com/o/-M_bmp-_zWliWIWoS5D7/s/-M_bmxz70gvEJ0PLIHFc/~/changes/244/developers/retirement-aggregator) and [retirement bonds](https://forum.klimadao.finance/d/138-kip-31-introduce-retirement-bonds).
 
 ## Klima is a DAO.
 

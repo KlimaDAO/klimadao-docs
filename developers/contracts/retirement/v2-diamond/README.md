@@ -34,18 +34,8 @@ event CarbonRetired(
 );
 ```
 
-| Field                | Type                   | Description                                                                                                                                                       |
-| -------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| carbonBridge         | LibRetire.CarbonBridge | <p>This enum is used for the source of the carbon retired.</p><pre class="language-solidity"><code class="lang-solidity">0 = TOUCAN
+<table><thead><tr><th>Field</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>carbonBridge</td><td>LibRetire.CarbonBridge</td><td><p>This enum is used for the source of the carbon retired.</p><pre class="language-solidity"><code class="lang-solidity">0 = TOUCAN
 1 = MOSS
 2 = C3
-</code></pre> |
-| retiringAddress      | Address                | Address calling the retirement. Currently the `msg.sender` value for the retiring transaction.                                                                    |
-| retiringEntityString | String                 | String representation of the retiring entity calling the transaction.                                                                                             |
-| beneficiaryAddress   | Address                | Address for the beneficiary of the retirement. Any NFT certificates created during the retirement will be sent to this address.                                   |
-| beneficiaryString    | string                 | String representation of the beneficiary.                                                                                                                         |
-| retirementMessage    | string                 | Specific message related to this retirement.                                                                                                                      |
-| carbonPool           | address                | Carbon pool token used to retire. If none, the zero address is used.                                                                                              |
-| carbonToken          | address                | The token address for the specific carbon project token being retired. If none, the zero address is used.                                                         |
-| retiredAmount        | uint256                | Amount of carbon retired. This uses the token's native decimals.                                                                                                  |
+</code></pre></td></tr><tr><td>retiringAddress</td><td>Address</td><td>Address calling the retirement. Currently the <code>msg.sender</code> value for the retiring transaction.</td></tr><tr><td>retiringEntityString</td><td>String</td><td>String representation of the retiring entity calling the transaction.</td></tr><tr><td>beneficiaryAddress</td><td>Address</td><td>Address for the beneficiary of the retirement. Any NFT certificates created during the retirement will be sent to this address.</td></tr><tr><td>beneficiaryString</td><td>string</td><td>String representation of the beneficiary.</td></tr><tr><td>retirementMessage</td><td>string</td><td>Specific message related to this retirement.</td></tr><tr><td>carbonPool</td><td>address</td><td>Carbon pool token used to retire. If none, the zero address is used.</td></tr><tr><td>carbonToken</td><td>address</td><td>The token address for the specific carbon project token being retired. If none, the zero address is used.</td></tr><tr><td>retiredAmount</td><td>uint256</td><td>Amount of carbon retired. This uses the token's native decimals.</td></tr></tbody></table>
 
