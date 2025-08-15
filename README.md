@@ -1,23 +1,24 @@
 # Welcome to Klima Protocol
 
-Klima Protocol is an open blockchain-enabled infrastructure for climate finance.\
-\
-At its core, Klima Protocol is an ecosystem for pricing, managing, and retiring carbon credits onchain, built to increase transparency, liquidity, and access across global carbon markets.
+Klima Protocol is an open infrastructure for climate finance, built to address the inefficiencies of global carbon markets.
 
-🌍 Mission: To make carbon markets more efficient, accessible, and verifiable by embedding climate finance into programmable, onchain systems.
+Today, carbon markets are critical to channeling capital into climate solutions, yet they remain slow, opaque, fragmented, and burdened by trust gaps. These barriers limit liquidity, delay transactions, and make it harder for environmental projects to access fair funding.
 
-🛠️ How: Through a decentralized protocol governed by smart contracts, collective decision-making, and programmable carbon markets.
+Klima Protocol exists to change this.
 
-🚀 Why: Because we believe carbon markets must evolve to meet the climate challenge, with tools that are efficient, transparent, and built to last.
+We provide a rules-based system for pricing, managing, and retiring carbon credits that improves transparency, accelerates market access, and strengthens confidence for all participants.
 
 ### What Is Klima Protocol?
 
-Klima Protocol provides a blockchain-based capital system purpose-built for carbon markets.
+Klima Protocol is a market infrastructure layer purpose-built for climate finance. It focuses on two core objectives:
 
-At its core, Klima Protocol exists to serve two foundational objectives:
+#### ✅ Transparent Carbon Pricing
 
-* Transparent carbon pricing – so that project developers are not undersold and buyers access the market efficiently with verifiable, real-time pricing.
-* Access to carbon markets – by abstracting away fragmentation, intermediaries, and complexity, Klima serves as a decentralized counterparty for both buyers and sellers, making climate action programmable and accessible at scale.
+* Ensuring climate projects receive fair value while giving buyers access to real-time, verifiable market prices.
+
+#### ✅ Access to Carbon Markets
+
+* Reducing fragmentation and complexity by creating a shared infrastructure that connects capital to carbon supply efficiently and at scale.
 
 
 
@@ -25,29 +26,29 @@ At its core, Klima Protocol exists to serve two foundational objectives:
 
 ### The Liquidity Hub for Carbon Onchain
 
-Klima Protocol serves as a capital, liquidity, and execution layer for tokenized carbon markets. It introduces a formal mechanism for:
+Klima 2.0 introduces an enhanced framework designed for the needs of modern carbon finance. It serves as the capital, liquidity, and execution layer for carbon transactions, enabling:
 
-* Onchain carbon asset pricing based on collective governance and market signals.
-* Frictionless market access – instant settlement, token-based capital flows, and self-custody trading of carbon assets.
-* Smart contract execution that eliminates intermediaries, reduces overhead, and enables capital-efficient operations across carbon supply and demand.
-* 24/7 carbon index (ETF) that allows economic actors to be exposed to the spot and forwards (ex-ante) carbon markets
+* Transparent pricing of carbon assets through governance-driven market signals
+* Faster market access, with near-instant settlement and efficient capital flows
+* Lower operational costs by replacing intermediaries with standardized processes
+* Continuous market exposure via a 24/7 carbon index covering spot and forward (ex-ante) markets
 
 ### Utility Layer for Tokenized Carbon
 
-Klima 2.0 is designed for composability. It allows stakeholders to directly interface with the protocol across multiple functions:
+Klima 2.0 is modular and open, enabling different actors in the carbon economy to interact directly with its infrastructure.
 
-* Governance: Token holders vote on which carbon classes are supported and how they’re weighted in the portfolio.
-* Liquidity provisioning: Stakeholders contribute capital to carbon-backed liquidity pools and receive a dynamic yield based on system parameters.
-* Programmable infrastructure: Developers and integrators can leverage Klima’s smart contracts, Retirement Aggregator, and retirement tools to build carbon-enabled products and services.
+* Governance: Stakeholders influence which categories of credits are supported and how they’re prioritized.
+* Liquidity Provisioning: Capital providers earn returns based on market activity and performance.
+* Integration Tools: Service providers and platforms can use Klima’s APIs and tools—such as the Retirement Aggregator—for automated credit retirement, transparent reporting, and innovative climate finance products.
 
-These components form an infrastructure and economic layer that transforms how capital and carbon interact, turning passive carbon exposure into an actively governed, yield-generating market structure.
+This transforms passive carbon exposure into an actively governed, outcome-driven market system.
 
 ### What’s New in Klima 2.0
 
-> * 🪙 Dual-token model: kVCM for utility and K2 for governance & risk balancing
-> * 🔁 Automated pricing mechanisms: powered by system signals, not central control
-> * 🧬 Economic governance: fully decentralized influence over pricing and risk
-> * 💥 Composable APIs: for seamless integration into fintech and climate platforms
+* Dual-token framework — separating market utility from governance and risk management
+* Automated pricing mechanisms — informed by market activity and transparent rules
+* Economic governance — stakeholders shape asset prioritization and market behavior
+* Integration-ready APIs’ webhooks — enabling seamless connection to financial platforms, corporate systems, and sustainability solutions
 
 ### Ecosystem Links
 
