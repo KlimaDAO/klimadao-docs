@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Klima Protocol](README.md)
+* [Welcome to KlimaDAO](README.md)
 * [What is KlimaDAO?](what-is-klimadao.md)
 * [Why Klima Protocol Exists](why-klimadao-exists.md)
 

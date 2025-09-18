@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Why Klima Protocol Exists
 
 ### Why Klima Protocol Exists

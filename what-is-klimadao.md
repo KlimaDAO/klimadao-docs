@@ -1,8 +1,12 @@
----
-hidden: true
----
-
 # What is KlimaDAO?
+
+KlimaDAO is an open infrastructure for climate finance, built to address the inefficiencies of global carbon markets.
+
+Today, carbon markets are critical to channeling capital into climate solutions, yet they remain slow, opaque, fragmented, and burdened by trust gaps. These barriers limit liquidity, delay transactions, and make it harder for environmental projects to access fair funding.
+
+KlimaDAO exists to change this.
+
+We provide a rules-based system for pricing, managing, and retiring carbon credits that improves transparency, accelerates market access, and strengthens confidence for all participants.
 
 ## Klima is protocol.
 

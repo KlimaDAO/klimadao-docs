@@ -1,16 +1,20 @@
-# Welcome to Klima Protocol
+---
+hidden: true
+---
 
-Klima Protocol is an open infrastructure for climate finance, built to address the inefficiencies of global carbon markets.
+# Welcome to KlimaDAO
+
+KlimaDAO is an open infrastructure for climate finance, built to address the inefficiencies of global carbon markets.
 
 Today, carbon markets are critical to channeling capital into climate solutions, yet they remain slow, opaque, fragmented, and burdened by trust gaps. These barriers limit liquidity, delay transactions, and make it harder for environmental projects to access fair funding.
 
-Klima Protocol exists to change this.
+KlimaDAO exists to change this.
 
 We provide a rules-based system for pricing, managing, and retiring carbon credits that improves transparency, accelerates market access, and strengthens confidence for all participants.
 
-### What Is Klima Protocol?
+### What Is KlimaDAO?
 
-Klima Protocol is a market infrastructure layer purpose-built for climate finance. It focuses on two core objectives:
+KlimaDAO is a market infrastructure layer purpose-built for climate finance. It focuses on two core objectives:
 
 #### ✅ Transparent Carbon Pricing
 
