@@ -80,6 +80,6 @@
 
 ## 🙋‍♀️ Get Involved
 
-* [Community Discord](https://discord.gg/klimadao)
+* [Community Discord](https://www.klimaprotocol.com/discord)
 * [Governance Forum](https://forum.klimadao.finance/)
 * [Contact Us](https://www.klimadao.finance/contact)

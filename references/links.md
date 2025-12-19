@@ -8,7 +8,7 @@
 🏛️ [Governance Forum](https://forum.klimadao.finance/)\
 🗳️ [Snapshot Voting](https://snapshot.org/#/klimadao.eth)\
 🐦 [Twitter](https://twitter.com/klimadao) \
-💬 [Discord](https://discord.gg/klimadao) \
+💬 [Discord](https://www.klimaprotocol.com/discord) \
 📺 [YouTube](https://www.youtube.com/@KlimaDAOfinance)
 
 ## Ecosystem

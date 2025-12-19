@@ -14,7 +14,7 @@ To properly leverage the knowledge at the DAO's disposal, and build out the prot
 
 ### Discord Community
 
-[https://discord.com/invite/klimadao](https://discord.com/invite/klimadao)
+[https://www.klimaprotocol.com/discord](https://www.klimaprotocol.com/discord)
 
 Discord serves as the primary informal medium for community discussion. There are a wide variety of channels where you can discuss everything from governance proposals to the technicalities of the protocol.
 

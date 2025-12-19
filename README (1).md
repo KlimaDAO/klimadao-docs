@@ -60,7 +60,7 @@ This transforms passive carbon exposure into an actively governed, outcome-drive
 🌲 [App](https://app.klimaprotocol.com/)\
 🔵 [Carbonmark](https://www.carbonmark.com/) - global carbon marketplace\
 🐦 [Twitter](https://twitter.com/klimadao) \
-💬 [Discord](https://discord.gg/klimadao) \
+💬 [Discord](https://www.klimaprotocol.com/discord) \
 📺 [YouTube](https://www.youtube.com/@KlimaDAOfinance)
 
 ### Developer Links

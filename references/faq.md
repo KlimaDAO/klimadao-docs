@@ -42,7 +42,7 @@ To buy, sell or retire carbon credits, visit [https;//carbonmark.com](https://ca
 
 ## How do I participate in KlimaDAO?
 
-**KlimaDAO development:** Join the [Discord](https://discord.gg/klimadao) to become a member of our community AKA a Klimate and hear about protocol developments.
+**KlimaDAO development:** Join the [Discord](https://www.klimaprotocol.com/discord) to become a member of our community AKA a Klimate and hear about protocol developments.
 
 **Participation in the carbon ecosystem:** At the time of writing BCT, NCT, UBO, NBO and MCO2 are the main forms of tokenized carbon within the KlimaDAO treasury and their flow into the treasury underpins protocol growth.
 
