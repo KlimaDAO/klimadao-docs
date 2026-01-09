@@ -25,4 +25,4 @@ KLIMA, with its intrinsic link to carbon credits and the environmental market, h
 
 As the world increasingly focuses on sustainability and the valuation of environmental assets becomes more critical, KLIMA is well-positioned to serve as a unit of account in the environmental markets. Its stability, divisibility, and the trust and security offered by blockchain technology make it an ideal candidate. By continuing to build acceptance and demonstrating its utility in environmental valuation, KLIMA can achieve widespread recognition as a standard unit of account, facilitating clearer, more consistent financial transactions within the growing green economy.
 
-\
+<br>

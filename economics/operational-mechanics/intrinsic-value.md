@@ -22,4 +22,4 @@ At the core of KLIMA's design is the principle that every token is backed by at 
 
 The intrinsic value mechanic ensures that the KLIMA token remains a stable and reliable asset within the carbon market. By directly tying the token's value to tangible environmental assets, KLIMA serves as a bridge between digital finance and real-world sustainability efforts. This foundational principle guarantees that KLIMA's supply and market operations are always conducted with a view towards environmental impact and market stability, ensuring that KLIMA remains an effective tool for liquidity provisioning and a meaningful representation of the carbon credit market.
 
-\
+<br>

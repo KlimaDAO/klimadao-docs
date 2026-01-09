@@ -34,7 +34,6 @@
 
 * [Overview](developers/overview.md)
 * [Retirement Aggregator](developers/retirement-aggregator.md)
-* [Automation](developers/automation.md)
 * [Bug Bounty](developers/bug-bounty.md)
 * [Contracts](developers/contracts/README.md)
   * [DAO Wallet](developers/contracts/dao-wallet.md)

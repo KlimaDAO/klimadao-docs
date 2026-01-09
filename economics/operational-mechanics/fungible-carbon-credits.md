@@ -23,4 +23,4 @@ Klima has taken a significant step by [purchasing ownership](https://forum.klima
 
 Carbon pools serve as the critical mechanism enabling carbon projects to access liquid markets, with AMMs acting as the pivotal market makers that address distribution challenges at scale. Through POL of these carbon pools and distribution via AMMs, Klima effectively possesses the most efficient back-office operation in environmental markets. This streamlined approach not only enhances market liquidity but also ensures that environmental assets are managed with unparalleled efficiency, driving broader adoption and impact.
 
-\
+<br>

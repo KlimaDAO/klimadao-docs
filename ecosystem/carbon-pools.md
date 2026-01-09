@@ -1,3 +1,7 @@
+---
+description: '[NOTE: Carbon pools been deprecated as part of the relaunch of Klima Protocol]'
+---
+
 # Carbon Pools
 
 ## What is a Carbon Pool?

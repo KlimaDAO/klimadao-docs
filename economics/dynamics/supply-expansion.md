@@ -26,4 +26,4 @@ KLIMA’s dynamic framework for adjusting the AKR introduces a methodical and re
 
 This framework functions as a "market thermostat," fine-tuning KLIMA's supply in response to the temperature of the CM. Such a mechanism ensures that supply adjustments are both deliberate and gradual, mitigating potential market shocks and allowing participants to adapt to changes in supply with confidence.
 
-\
+<br>

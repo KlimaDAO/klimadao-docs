@@ -35,7 +35,6 @@ These pools are crucial for creating a liquid on-chain market for carbon assets,
 
 The strategic management of Protocol Owned Liquidity (POL) and the adoption of concentrated liquidity functionality represent significant advancements in Klima’'s approach to market liquidity. By owning and efficiently managing liquidity across multiple KLIMA/CARBON pools, KLIMA ensures an efficient, stable, and resilient market for carbon assets, aligning with its mission to facilitate a liquid and accessible Carbon Market.
 
-\
+<br>
 
-
-\
+<br>

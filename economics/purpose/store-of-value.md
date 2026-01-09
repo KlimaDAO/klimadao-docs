@@ -20,9 +20,8 @@ KLIMA, as a digital currency tied to the value of carbon credits, embodies sever
 * Portability and Divisibility: KLIMA's digital nature makes it highly portable and divisible, allowing for seamless transactions and exchanges across the globe without loss of value, regardless of the transaction size.
 * Acceptability and Utility: The growing recognition of carbon credits as essential tools for combating climate change enhances KLIMA's acceptability. Its role in facilitating carbon offsetting and trading activities further solidifies its utility and value proposition.
 * Resistance to Inflation: The innovative mechanisms for supply management, particularly the alignment of supply expansion with CM growth and the use of retirement bonds for supply contraction, provide a buffer against inflationary pressures. By ensuring that KLIMA's supply reflects real-world environmental value creation and demand, it maintains its purchasing power.
-* Backing by Tangible Environmental Assets: The carbon backing of KLIMA tokens directly ties its value to tangible environmental assets. This connection not only provides a solid foundation for its value but also aligns it with the growing global emphasis on sustainability and environmental preservation.\
-
+* Backing by Tangible Environmental Assets: The carbon backing of KLIMA tokens directly ties its value to tangible environmental assets. This connection not only provides a solid foundation for its value but also aligns it with the growing global emphasis on sustainability and environmental preservation.<br>
 
 The dynamics of KLIMA, from its supply management strategies to its digital and environmental underpinnings, equip it with the characteristics of a viable store of value. As the world increasingly values sustainability and as the digital finance ecosystem evolves, KLIMA's role and recognition as a store of value are poised to grow, underpinned by its innovative approach to combining environmental impact with economic utility.
 
-\
+<br>

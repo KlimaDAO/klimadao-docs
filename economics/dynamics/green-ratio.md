@@ -39,8 +39,7 @@ Components:
 
 #### Carbon Backing (22%)
 
-Carbon Backing is the core of KLIMA's value proposition, ensuring that each KLIMA token is backed by tangible environmental assets.\
-
+Carbon Backing is the core of KLIMA's value proposition, ensuring that each KLIMA token is backed by tangible environmental assets.<br>
 
 Components:
 

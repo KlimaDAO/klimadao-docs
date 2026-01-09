@@ -40,4 +40,4 @@ For KLIMA to enhance its role as a store of value, balancing these rates is cruc
 
 In conclusion, retirement bonds are a cornerstone of KLIMA's supply contraction strategy, offering a direct mechanism to reduce circulating supply while supporting environmental goals. By carefully managing the dynamics between supply expansion and contraction, KLIMA can maintain its stability and utility as a currency in the evolving landscape of the carbon market.
 
-\
+<br>

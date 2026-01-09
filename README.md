@@ -41,7 +41,7 @@ Addressing coordination failure means bringing together diverse actors and enabl
 
 DCM stakeholders can leverage the DAO as a coordination engine. The journey starts with [acquiring $KLIMA](https://klimadao.finance/buy) – as the $KLIMA token can be used to participate in KlimaDAO’s [governance process](https://klimadao.finance/governance), deciding on KlimaDAO’s allocation of its Treasury and its market-making capabilities. Users can navigate to the [Forum](https://forum.klimadao.finance/), to take part in this consensus-forming process.
 
-[Broken link](broken-reference "mention")
+[Broken link](/broken/pages/rtr2oZ9UCVsZLllpDq5z "mention")
 
 #### Infrastructure
 
@@ -51,13 +51,13 @@ Users can leverage KlimaDAO’s native tooling to navigate the Carbon Market (CM
 
 With people continuing to build on top of KlimaDAO’s underlying open base layer, users can navigate their way through the different applications and DCM services available via the Ecosystem hub.
 
-[Broken link](broken-reference "mention")
+[Broken link](/broken/pages/-M_tCmcdnEgFVfLQjPq1 "mention")
 
 #### Builders
 
 KlimaDAO’s tools enable builders to integrate digital carbon into any application: this is where you will find what you need to get started on that journey and to get support from the DAO.
 
-[Broken link](broken-reference "mention")
+[Broken link](/broken/pages/ABkAwhzk1b31KgsyW8n0 "mention")
 
 #### Resources
 
